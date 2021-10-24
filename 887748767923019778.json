@@ -1,0 +1,308 @@
+{
+  "created_at": "Wed Jul 19 18:59:34 +0000 2017",
+  "id": 887748767923019778,
+  "id_str": "887748767923019778",
+  "text": "RT @organicukfood: *30 minute klaxon!* Get ready for our gardening edition of #OrganicHour. Hope you can join us from 8pm... \ud83c\udf3f https://t.co\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "OrganicHour",
+        "indices": [
+          78,
+          90
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "organicukfood",
+        "name": "organicukfood",
+        "id": 940128036409688064,
+        "id_str": "940128036409688064",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Jul 19 18:34:17 +0000 2017",
+    "id": 887742406417887233,
+    "id_str": "887742406417887233",
+    "text": "*30 minute klaxon!* Get ready for our gardening edition of #OrganicHour. Hope you can join us from 8pm... \ud83c\udf3f https://t.co/BLRY07epMb",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "OrganicHour",
+          "indices": [
+            59,
+            71
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 887741973624500244,
+          "id_str": "887741973624500244",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/DFHknx4XsBQ8bxV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DFHknx4XsBQ8bxV.jpg",
+          "url": "https://t.co/BLRY07epMb",
+          "display_url": "pic.twitter.com/BLRY07epMb",
+          "expanded_url": "https://twitter.com/organicukfood/status/887742406417887233/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1012,
+              "h": 506,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1012,
+              "h": 506,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 887741973624500244,
+          "id_str": "887741973624500244",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/DFHknx4XsBQ8bxV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DFHknx4XsBQ8bxV.jpg",
+          "url": "https://t.co/BLRY07epMb",
+          "display_url": "pic.twitter.com/BLRY07epMb",
+          "expanded_url": "https://twitter.com/organicukfood/status/887742406417887233/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1012,
+              "h": 506,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1012,
+              "h": 506,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 111040216,
+      "id_str": "111040216",
+      "name": "Organic UK",
+      "screen_name": "organicUK",
+      "location": "United Kingdom",
+      "description": "Our mission is to grow the market for organic in the UK. We\u2019re an independent non-profit organisation. Join us #GoOrganic \ud83d\udc1d",
+      "url": "https://t.co/pFCmaeBdba",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/pFCmaeBdba",
+              "expanded_url": "https://goorganicuk.com/",
+              "display_url": "goorganicuk.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 17084,
+      "friends_count": 3965,
+      "listed_count": 254,
+      "created_at": "Wed Feb 03 16:18:48 +0000 2010",
+      "favourites_count": 28026,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 14532,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1376201793428975619/Yk3GVrdo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1376201793428975619/Yk3GVrdo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/111040216/1629286498",
+      "profile_link_color": "7BB03E",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "6fe2677ea8232d47",
+      "url": "https://api.twitter.com/1.1/geo/id/6fe2677ea8232d47.json",
+      "place_type": "city",
+      "name": "Beaminster",
+      "full_name": "Beaminster, England",
+      "country_code": "GB",
+      "country": "United Kingdom",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -2.75333,
+              50.804515
+            ],
+            [
+              -2.726201,
+              50.804515
+            ],
+            [
+              -2.726201,
+              50.817796
+            ],
+            [
+              -2.75333,
+              50.817796
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 2,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

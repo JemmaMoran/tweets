@@ -1,0 +1,201 @@
+{
+  "created_at": "Tue Dec 15 11:45:07 +0000 2020",
+  "id": 1338812328465354752,
+  "id_str": "1338812328465354752",
+  "text": "RT @MrBButterfield: If you enjoyed episode one of my new podcast yesterday, then have I got a treat for you! I have negotiated an exclusive\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "MrBButterfield",
+        "name": "Brian Butterfield",
+        "id": 32581388,
+        "id_str": "32581388",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Dec 15 10:23:14 +0000 2020",
+    "id": 1338791719408693250,
+    "id_str": "1338791719408693250",
+    "text": "If you enjoyed episode one of my new podcast yesterday, then have I got a treat for you! I have negotiated an exclu\u2026 https://t.co/jpo90pKOER",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/jpo90pKOER",
+          "expanded_url": "https://twitter.com/i/web/status/1338791719408693250",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 32581388,
+      "id_str": "32581388",
+      "name": "Brian Butterfield",
+      "screen_name": "MrBButterfield",
+      "location": "Location",
+      "description": "Business Man Entrepreneur Business Man  *NOW ON VINE!!!* https://t.co/eViuYJMdkM",
+      "url": "https://t.co/egm4inV1VQ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/egm4inV1VQ",
+              "expanded_url": "http://www.peterserafinowicz.com/brian-butterfield/",
+              "display_url": "peterserafinowicz.com/brian-butterfi\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/eViuYJMdkM",
+              "expanded_url": "https://anchor.fm/brian-butterfield1",
+              "display_url": "anchor.fm/brian-butterfi\u2026",
+              "indices": [
+                57,
+                80
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 56247,
+      "friends_count": 59,
+      "listed_count": 491,
+      "created_at": "Fri Apr 17 21:00:32 +0000 2009",
+      "favourites_count": 408,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3658,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3673113505/473a5f6370f3861f3dd0654c0111d143_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3673113505/473a5f6370f3861f3dd0654c0111d143_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/32581388/1510082384",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 16,
+    "favorite_count": 159,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 16,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

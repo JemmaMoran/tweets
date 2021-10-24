@@ -1,0 +1,296 @@
+{
+  "created_at": "Thu Oct 22 19:46:18 +0000 2015",
+  "id": 657281847496454146,
+  "id_str": "657281847496454146",
+  "text": "RT @nytvf: @rocliffeforum New Comedy Showcase tonight! Catch a glimpse of Great Britain\u2019s Comedy Voices of Tomorrow! #NYTVF https://t.co/Uh\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "NYTVF",
+        "indices": [
+          117,
+          123
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "nytvf",
+        "name": "NEW YORK TV FESTIVAL",
+        "id": 8692972,
+        "id_str": "8692972",
+        "indices": [
+          3,
+          9
+        ]
+      },
+      {
+        "screen_name": "rocliffeforum",
+        "name": "Rocliffe Productions & Writing Competition",
+        "id": 113732612,
+        "id_str": "113732612",
+        "indices": [
+          11,
+          25
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Oct 22 18:35:07 +0000 2015",
+    "id": 657263932566999040,
+    "id_str": "657263932566999040",
+    "text": "@rocliffeforum New Comedy Showcase tonight! Catch a glimpse of Great Britain\u2019s Comedy Voices of Tomorrow! #NYTVF https://t.co/UhMbOkb8Hf",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "NYTVF",
+          "indices": [
+            106,
+            112
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "rocliffeforum",
+          "name": "Rocliffe Productions & Writing Competition",
+          "id": 113732612,
+          "id_str": "113732612",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 657218624415928320,
+          "id_str": "657218624415928320",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/CR7o21gVEAAfOXL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CR7o21gVEAAfOXL.jpg",
+          "url": "https://t.co/UhMbOkb8Hf",
+          "display_url": "pic.twitter.com/UhMbOkb8Hf",
+          "expanded_url": "https://twitter.com/nytvf/status/657263932566999040/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 300,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 600,
+              "h": 300,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 300,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 657218624415928320,
+          "id_str": "657218624415928320",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/CR7o21gVEAAfOXL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CR7o21gVEAAfOXL.jpg",
+          "url": "https://t.co/UhMbOkb8Hf",
+          "display_url": "pic.twitter.com/UhMbOkb8Hf",
+          "expanded_url": "https://twitter.com/nytvf/status/657263932566999040/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 300,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 600,
+              "h": 300,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 300,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 113732612,
+    "in_reply_to_user_id_str": "113732612",
+    "in_reply_to_screen_name": "rocliffeforum",
+    "user": {
+      "id": 8692972,
+      "id_str": "8692972",
+      "name": "NEW YORK TV FESTIVAL",
+      "screen_name": "nytvf",
+      "location": "New York",
+      "description": "THE Festival for Independent Television.",
+      "url": "https://t.co/81D5PWej13",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/81D5PWej13",
+              "expanded_url": "http://www.nytvf.com/",
+              "display_url": "nytvf.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 10450,
+      "friends_count": 955,
+      "listed_count": 409,
+      "created_at": "Wed Sep 05 19:01:47 +0000 2007",
+      "favourites_count": 4258,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 8845,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1016667629275303937/cX1fuIwK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1016667629275303937/cX1fuIwK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/8692972/1535045027",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "3F3F3F",
+      "profile_sidebar_fill_color": "EBEBEB",
+      "profile_text_color": "353232",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 3,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

@@ -1,0 +1,360 @@
+{
+  "created_at": "Thu Sep 01 08:03:02 +0000 2016",
+  "id": 771257039406235649,
+  "id_str": "771257039406235649",
+  "text": "RT @HigherHacknell: Hooray, #OrganicSeptember is here! We are proud to be @SoilAssociation certified. This is why we farm organically... ht\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "OrganicSeptember",
+        "indices": [
+          28,
+          45
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "HigherHacknell",
+        "name": "Higher Hacknell Farm",
+        "id": 1430095122,
+        "id_str": "1430095122",
+        "indices": [
+          3,
+          18
+        ]
+      },
+      {
+        "screen_name": "SoilAssociation",
+        "name": "Soil Association",
+        "id": 17208213,
+        "id_str": "17208213",
+        "indices": [
+          74,
+          90
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Sep 01 07:49:19 +0000 2016",
+    "id": 771253589259919362,
+    "id_str": "771253589259919362",
+    "text": "Hooray, #OrganicSeptember is here! We are proud to be @SoilAssociation certified. This is why we farm organically... https://t.co/ioeEaXnaSQ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "OrganicSeptember",
+          "indices": [
+            8,
+            25
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "SoilAssociation",
+          "name": "Soil Association",
+          "id": 17208213,
+          "id_str": "17208213",
+          "indices": [
+            54,
+            70
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 771252899850571776,
+          "id_str": "771252899850571776",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/771252899850571776/pu/img/Mh49ST1S9JPxAgrx.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/771252899850571776/pu/img/Mh49ST1S9JPxAgrx.jpg",
+          "url": "https://t.co/ioeEaXnaSQ",
+          "display_url": "pic.twitter.com/ioeEaXnaSQ",
+          "expanded_url": "https://twitter.com/HigherHacknell/status/771253589259919362/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 771252899850571776,
+          "id_str": "771252899850571776",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/771252899850571776/pu/img/Mh49ST1S9JPxAgrx.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/771252899850571776/pu/img/Mh49ST1S9JPxAgrx.jpg",
+          "url": "https://t.co/ioeEaXnaSQ",
+          "display_url": "pic.twitter.com/ioeEaXnaSQ",
+          "expanded_url": "https://twitter.com/HigherHacknell/status/771253589259919362/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 62000,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/771252899850571776/pu/pl/uKvbpQq1olY2FtDr.m3u8"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/771252899850571776/pu/vid/1280x720/tyVIxU3pG12zRQEY.mp4"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/771252899850571776/pu/vid/640x360/Ncq1jgJ9zI4Z-UBs.mp4"
+              },
+              {
+                "bitrate": 320000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/771252899850571776/pu/vid/320x180/IoPBb3prYVsWN7AW.mp4"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1430095122,
+      "id_str": "1430095122",
+      "name": "Higher Hacknell Farm",
+      "screen_name": "HigherHacknell",
+      "location": "Devon, UK",
+      "description": "Award-winning organic farmers since 1985, with our own butchery supplying grass-fed beef, lamb, pork + poultry throughout the UK. Tweets by Jo",
+      "url": "http://t.co/5P5ZHsY52A",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/5P5ZHsY52A",
+              "expanded_url": "http://www.higherhacknell.co.uk",
+              "display_url": "higherhacknell.co.uk",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 903,
+      "friends_count": 601,
+      "listed_count": 35,
+      "created_at": "Wed May 15 10:13:26 +0000 2013",
+      "favourites_count": 307,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1016,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/765555150685663232/Yg4R282f_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/765555150685663232/Yg4R282f_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1430095122/1471357658",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "25d3e991f5637f5a",
+      "url": "https://api.twitter.com/1.1/geo/id/25d3e991f5637f5a.json",
+      "place_type": "admin",
+      "name": "South West",
+      "full_name": "South West, England",
+      "country_code": "GB",
+      "country": "United Kingdom",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.36850399906372,
+              49.8824720005481
+            ],
+            [
+              -1.48573420014269,
+              49.8824720005481
+            ],
+            [
+              -1.48573420014269,
+              52.1125420344225
+            ],
+            [
+              -6.36850399906372,
+              52.1125420344225
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 25,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 11,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

@@ -1,0 +1,197 @@
+{
+  "created_at": "Thu Sep 23 11:42:04 +0000 2021",
+  "id": 1441004937731784705,
+  "id_str": "1441004937731784705",
+  "text": "RT @gluboco: If you want to know more, I wrote a detailed article about Lithuania's Covid Pass regime and its effects on my family.\n\nThe ar\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "gluboco",
+        "name": "Gluboco Lietuva",
+        "id": 1438631310092873730,
+        "id_str": "1438631310092873730",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Sep 23 05:57:37 +0000 2021",
+    "id": 1440918255250595842,
+    "id_str": "1440918255250595842",
+    "text": "If you want to know more, I wrote a detailed article about Lithuania's Covid Pass regime and its effects on my fami\u2026 https://t.co/pljlzih1SV",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/pljlzih1SV",
+          "expanded_url": "https://twitter.com/i/web/status/1440918255250595842",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1440918252117532672,
+    "in_reply_to_status_id_str": "1440918252117532672",
+    "in_reply_to_user_id": 1438631310092873730,
+    "in_reply_to_user_id_str": "1438631310092873730",
+    "in_reply_to_screen_name": "gluboco",
+    "user": {
+      "id": 1438631310092873730,
+      "id_str": "1438631310092873730",
+      "name": "Gluboco Lietuva",
+      "screen_name": "gluboco",
+      "location": "Lithuania",
+      "description": "Lithuanian father, husband, forager of wild mushrooms. Thread: https://t.co/y3z19IFCnR. Article: https://t.co/95e8wBtCHG. Email: gluboco@pm.me.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/y3z19IFCnR",
+              "expanded_url": "http://bit.ly/3CStkQ1",
+              "display_url": "bit.ly/3CStkQ1",
+              "indices": [
+                63,
+                86
+              ]
+            },
+            {
+              "url": "https://t.co/95e8wBtCHG",
+              "expanded_url": "http://txti.es/covid-pass/images",
+              "display_url": "txti.es/covid-pass/ima\u2026",
+              "indices": [
+                97,
+                120
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 10583,
+      "friends_count": 1,
+      "listed_count": 42,
+      "created_at": "Thu Sep 16 22:30:45 +0000 2021",
+      "favourites_count": 1,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 82,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1438632994449862657/9M6mBnMs_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1438632994449862657/9M6mBnMs_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1438631310092873730/1631832018",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 28,
+    "favorite_count": 49,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 28,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

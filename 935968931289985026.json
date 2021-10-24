@@ -1,0 +1,535 @@
+{
+  "created_at": "Wed Nov 29 20:29:17 +0000 2017",
+  "id": 935968931289985026,
+  "id_str": "935968931289985026",
+  "text": "RT @VintageRootsLtd: Can anyone tell me what @FasoliGino are doing here to make one of their wines? #OrganicHour https://t.co/SqVgcxNqAf",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "OrganicHour",
+        "indices": [
+          100,
+          112
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "VintageRootsLtd",
+        "name": "Vintage Roots",
+        "id": 90631588,
+        "id_str": "90631588",
+        "indices": [
+          3,
+          19
+        ]
+      },
+      {
+        "screen_name": "FasoliGino",
+        "name": "Az.Agr. Fasoli Gino",
+        "id": 92025446,
+        "id_str": "92025446",
+        "indices": [
+          45,
+          56
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 935966645025148928,
+        "id_str": "935966645025148928",
+        "indices": [
+          113,
+          136
+        ],
+        "media_url": "http://pbs.twimg.com/media/DP04tGZWkAAgz1A.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DP04tGZWkAAgz1A.jpg",
+        "url": "https://t.co/SqVgcxNqAf",
+        "display_url": "pic.twitter.com/SqVgcxNqAf",
+        "expanded_url": "https://twitter.com/VintageRootsLtd/status/935966648485457922/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 428,
+            "h": 646,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 428,
+            "h": 646,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 428,
+            "h": 646,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 935966648485457922,
+        "source_status_id_str": "935966648485457922",
+        "source_user_id": 90631588,
+        "source_user_id_str": "90631588"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 935966645025148928,
+        "id_str": "935966645025148928",
+        "indices": [
+          113,
+          136
+        ],
+        "media_url": "http://pbs.twimg.com/media/DP04tGZWkAAgz1A.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DP04tGZWkAAgz1A.jpg",
+        "url": "https://t.co/SqVgcxNqAf",
+        "display_url": "pic.twitter.com/SqVgcxNqAf",
+        "expanded_url": "https://twitter.com/VintageRootsLtd/status/935966648485457922/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 428,
+            "h": 646,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 428,
+            "h": 646,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 428,
+            "h": 646,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 935966648485457922,
+        "source_status_id_str": "935966648485457922",
+        "source_user_id": 90631588,
+        "source_user_id_str": "90631588"
+      },
+      {
+        "id": 935966645012623366,
+        "id_str": "935966645012623366",
+        "indices": [
+          113,
+          136
+        ],
+        "media_url": "http://pbs.twimg.com/media/DP04tGWXcAYShdL.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DP04tGWXcAYShdL.jpg",
+        "url": "https://t.co/SqVgcxNqAf",
+        "display_url": "pic.twitter.com/SqVgcxNqAf",
+        "expanded_url": "https://twitter.com/VintageRootsLtd/status/935966648485457922/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 323,
+            "h": 485,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 323,
+            "h": 485,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 323,
+            "h": 485,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 935966648485457922,
+        "source_status_id_str": "935966648485457922",
+        "source_user_id": 90631588,
+        "source_user_id_str": "90631588"
+      },
+      {
+        "id": 935966645058760704,
+        "id_str": "935966645058760704",
+        "indices": [
+          113,
+          136
+        ],
+        "media_url": "http://pbs.twimg.com/media/DP04tGhXcAAYm-s.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DP04tGhXcAAYm-s.jpg",
+        "url": "https://t.co/SqVgcxNqAf",
+        "display_url": "pic.twitter.com/SqVgcxNqAf",
+        "expanded_url": "https://twitter.com/VintageRootsLtd/status/935966648485457922/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 428,
+            "h": 646,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 428,
+            "h": 646,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 428,
+            "h": 646,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 935966648485457922,
+        "source_status_id_str": "935966648485457922",
+        "source_user_id": 90631588,
+        "source_user_id_str": "90631588"
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Nov 29 20:20:13 +0000 2017",
+    "id": 935966648485457922,
+    "id_str": "935966648485457922",
+    "text": "Can anyone tell me what @FasoliGino are doing here to make one of their wines? #OrganicHour https://t.co/SqVgcxNqAf",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "OrganicHour",
+          "indices": [
+            79,
+            91
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "FasoliGino",
+          "name": "Az.Agr. Fasoli Gino",
+          "id": 92025446,
+          "id_str": "92025446",
+          "indices": [
+            24,
+            35
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 935966645025148928,
+          "id_str": "935966645025148928",
+          "indices": [
+            92,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/media/DP04tGZWkAAgz1A.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DP04tGZWkAAgz1A.jpg",
+          "url": "https://t.co/SqVgcxNqAf",
+          "display_url": "pic.twitter.com/SqVgcxNqAf",
+          "expanded_url": "https://twitter.com/VintageRootsLtd/status/935966648485457922/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 428,
+              "h": 646,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 428,
+              "h": 646,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 428,
+              "h": 646,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 935966645025148928,
+          "id_str": "935966645025148928",
+          "indices": [
+            92,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/media/DP04tGZWkAAgz1A.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DP04tGZWkAAgz1A.jpg",
+          "url": "https://t.co/SqVgcxNqAf",
+          "display_url": "pic.twitter.com/SqVgcxNqAf",
+          "expanded_url": "https://twitter.com/VintageRootsLtd/status/935966648485457922/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 428,
+              "h": 646,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 428,
+              "h": 646,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 428,
+              "h": 646,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 935966645012623366,
+          "id_str": "935966645012623366",
+          "indices": [
+            92,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/media/DP04tGWXcAYShdL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DP04tGWXcAYShdL.jpg",
+          "url": "https://t.co/SqVgcxNqAf",
+          "display_url": "pic.twitter.com/SqVgcxNqAf",
+          "expanded_url": "https://twitter.com/VintageRootsLtd/status/935966648485457922/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 323,
+              "h": 485,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 323,
+              "h": 485,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 323,
+              "h": 485,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 935966645058760704,
+          "id_str": "935966645058760704",
+          "indices": [
+            92,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/media/DP04tGhXcAAYm-s.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DP04tGhXcAAYm-s.jpg",
+          "url": "https://t.co/SqVgcxNqAf",
+          "display_url": "pic.twitter.com/SqVgcxNqAf",
+          "expanded_url": "https://twitter.com/VintageRootsLtd/status/935966648485457922/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 428,
+              "h": 646,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 428,
+              "h": 646,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 428,
+              "h": 646,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 90631588,
+      "id_str": "90631588",
+      "name": "Vintage Roots",
+      "screen_name": "VintageRootsLtd",
+      "location": "Berkshire",
+      "description": "The Organic Wine People since 1986. Specialising in over 400 fully certified organic & biodynamic wines from all over the world.",
+      "url": "http://t.co/nsZMqrSjPe",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/nsZMqrSjPe",
+              "expanded_url": "http://www.vintageroots.co.uk",
+              "display_url": "vintageroots.co.uk",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 5275,
+      "friends_count": 1623,
+      "listed_count": 94,
+      "created_at": "Tue Nov 17 13:43:14 +0000 2009",
+      "favourites_count": 2617,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3929,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FAF9F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1891101714/Twitter_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1891101714/Twitter_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/90631588/1585817874",
+      "profile_link_color": "0F4D2A",
+      "profile_sidebar_border_color": "0F4D2A",
+      "profile_sidebar_fill_color": "FAF9F5",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 2,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

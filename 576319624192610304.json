@@ -1,0 +1,333 @@
+{
+  "created_at": "Fri Mar 13 09:51:20 +0000 2015",
+  "id": 576319624192610304,
+  "id_str": "576319624192610304",
+  "text": "RT @NickMotown: The t-shirt that Terry Pratchett wore to conventions: http://t.co/9KJvIpakBc",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "NickMotown",
+        "name": "Jason",
+        "id": 101012795,
+        "id_str": "101012795",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 576042511422107648,
+        "id_str": "576042511422107648",
+        "indices": [
+          70,
+          92
+        ],
+        "media_url": "http://pbs.twimg.com/media/B_6DnLTWsAApx9O.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/B_6DnLTWsAApx9O.jpg",
+        "url": "http://t.co/9KJvIpakBc",
+        "display_url": "pic.twitter.com/9KJvIpakBc",
+        "expanded_url": "https://twitter.com/NickMotown/status/576042537015746560/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 736,
+            "h": 638,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 736,
+            "h": 638,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 589,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 576042537015746560,
+        "source_status_id_str": "576042537015746560",
+        "source_user_id": 101012795,
+        "source_user_id_str": "101012795"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 576042511422107648,
+        "id_str": "576042511422107648",
+        "indices": [
+          70,
+          92
+        ],
+        "media_url": "http://pbs.twimg.com/media/B_6DnLTWsAApx9O.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/B_6DnLTWsAApx9O.jpg",
+        "url": "http://t.co/9KJvIpakBc",
+        "display_url": "pic.twitter.com/9KJvIpakBc",
+        "expanded_url": "https://twitter.com/NickMotown/status/576042537015746560/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 736,
+            "h": 638,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 736,
+            "h": 638,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 589,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 576042537015746560,
+        "source_status_id_str": "576042537015746560",
+        "source_user_id": 101012795,
+        "source_user_id_str": "101012795"
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Mar 12 15:30:17 +0000 2015",
+    "id": 576042537015746560,
+    "id_str": "576042537015746560",
+    "text": "The t-shirt that Terry Pratchett wore to conventions: http://t.co/9KJvIpakBc",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 576042511422107648,
+          "id_str": "576042511422107648",
+          "indices": [
+            54,
+            76
+          ],
+          "media_url": "http://pbs.twimg.com/media/B_6DnLTWsAApx9O.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/B_6DnLTWsAApx9O.jpg",
+          "url": "http://t.co/9KJvIpakBc",
+          "display_url": "pic.twitter.com/9KJvIpakBc",
+          "expanded_url": "https://twitter.com/NickMotown/status/576042537015746560/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 736,
+              "h": 638,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 736,
+              "h": 638,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 589,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 576042511422107648,
+          "id_str": "576042511422107648",
+          "indices": [
+            54,
+            76
+          ],
+          "media_url": "http://pbs.twimg.com/media/B_6DnLTWsAApx9O.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/B_6DnLTWsAApx9O.jpg",
+          "url": "http://t.co/9KJvIpakBc",
+          "display_url": "pic.twitter.com/9KJvIpakBc",
+          "expanded_url": "https://twitter.com/NickMotown/status/576042537015746560/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 736,
+              "h": 638,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 736,
+              "h": 638,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 589,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 101012795,
+      "id_str": "101012795",
+      "name": "Jason",
+      "screen_name": "NickMotown",
+      "location": "Cambridge, via Stradbally.",
+      "description": "Musky sly old foxy stoat.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 26119,
+      "friends_count": 994,
+      "listed_count": 356,
+      "created_at": "Fri Jan 01 16:53:06 +0000 2010",
+      "favourites_count": 32953,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 117682,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "80787A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1434607310140317698/bq594pGi_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1434607310140317698/bq594pGi_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/101012795/1613384593",
+      "profile_link_color": "4A913C",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "7A7373",
+      "profile_text_color": "030303",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4393,
+    "favorite_count": 4361,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 4393,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

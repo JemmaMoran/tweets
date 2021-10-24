@@ -1,0 +1,322 @@
+{
+  "created_at": "Wed Dec 07 20:47:44 +0000 2016",
+  "id": 806601106906370049,
+  "id_str": "806601106906370049",
+  "text": "RT @organicukfood: Anyone else with tips on how to broach buying organic with friends and family at Christmas? #OrganicHour https://t.co/Hg\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "OrganicHour",
+        "indices": [
+          111,
+          123
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "organicukfood",
+        "name": "organicukfood",
+        "id": 940128036409688064,
+        "id_str": "940128036409688064",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Dec 07 20:40:24 +0000 2016",
+    "id": 806599263543263232,
+    "id_str": "806599263543263232",
+    "text": "Anyone else with tips on how to broach buying organic with friends and family at Christmas? #OrganicHour https://t.co/HgqihOFPD9",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "OrganicHour",
+          "indices": [
+            92,
+            104
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/HgqihOFPD9",
+          "expanded_url": "https://twitter.com/Anniesdorsetktn/status/806598225176199168",
+          "display_url": "twitter.com/Anniesdorsetkt\u2026",
+          "indices": [
+            105,
+            128
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 111040216,
+      "id_str": "111040216",
+      "name": "Organic UK",
+      "screen_name": "organicUK",
+      "location": "United Kingdom",
+      "description": "Our mission is to grow the market for organic in the UK. We\u2019re an independent non-profit organisation. Join us #GoOrganic \ud83d\udc1d",
+      "url": "https://t.co/pFCmaeBdba",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/pFCmaeBdba",
+              "expanded_url": "https://goorganicuk.com/",
+              "display_url": "goorganicuk.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 17084,
+      "friends_count": 3965,
+      "listed_count": 254,
+      "created_at": "Wed Feb 03 16:18:48 +0000 2010",
+      "favourites_count": 28026,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 14532,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1376201793428975619/Yk3GVrdo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1376201793428975619/Yk3GVrdo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/111040216/1629286498",
+      "profile_link_color": "7BB03E",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 806598225176199168,
+    "quoted_status_id_str": "806598225176199168",
+    "quoted_status": {
+      "created_at": "Wed Dec 07 20:36:17 +0000 2016",
+      "id": 806598225176199168,
+      "id_str": "806598225176199168",
+      "text": "@organicukfood previously have offered to buy the #organic #turkey or #goose and mentioned lovely organic farms near me... sort of subtle ?!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "organic",
+            "indices": [
+              50,
+              58
+            ]
+          },
+          {
+            "text": "turkey",
+            "indices": [
+              59,
+              66
+            ]
+          },
+          {
+            "text": "goose",
+            "indices": [
+              70,
+              76
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "organicukfood",
+            "name": "organicukfood",
+            "id": 940128036409688064,
+            "id_str": "940128036409688064",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 806594080948047873,
+      "in_reply_to_status_id_str": "806594080948047873",
+      "in_reply_to_user_id": 111040216,
+      "in_reply_to_user_id_str": "111040216",
+      "in_reply_to_screen_name": "organicUK",
+      "user": {
+        "id": 222453507,
+        "id_str": "222453507",
+        "name": "Annie Seeley RNutr",
+        "screen_name": "Gaia_Nutrition",
+        "location": "Christchurch, Dorset",
+        "description": "Mother & Registered Nutritionist, usually tweet about nutrition / organic, right now tweeting for freedom and human rights. Opinions own - naturally! \ud83d\udc9a\ud83c\udf31\ud83c\udf0d\ud83c\udf0e\ud83c\udf0f",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1048,
+        "friends_count": 1615,
+        "listed_count": 40,
+        "created_at": "Fri Dec 03 13:26:58 +0000 2010",
+        "favourites_count": 6050,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7762,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/820660964504834048/M2wKzIiu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/820660964504834048/M2wKzIiu_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/222453507/1630879268",
+        "profile_link_color": "00A86B",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 806598225176199168,
+  "quoted_status_id_str": "806598225176199168",
+  "retweet_count": 1,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

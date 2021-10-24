@@ -1,0 +1,374 @@
+{
+  "created_at": "Wed May 23 19:51:34 +0000 2018",
+  "id": 999377316265517057,
+  "id_str": "999377316265517057",
+  "text": "RT @AC0RNDAIRY: If concerned a #coolbag or upturned ceramic pot out for your #milkman to put in or under. Protection from birds too. We als\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "coolbag",
+        "indices": [
+          31,
+          39
+        ]
+      },
+      {
+        "text": "milkman",
+        "indices": [
+          77,
+          85
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "AC0RNDAIRY",
+        "name": "Acorn Dairy",
+        "id": 469247359,
+        "id_str": "469247359",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed May 23 19:49:36 +0000 2018",
+    "id": 999376821853540352,
+    "id_str": "999376821853540352",
+    "text": "If concerned a #coolbag or upturned ceramic pot out for your #milkman to put in or under. Protection from birds too\u2026 https://t.co/EBcj90Rdyb",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "coolbag",
+          "indices": [
+            15,
+            23
+          ]
+        },
+        {
+          "text": "milkman",
+          "indices": [
+            61,
+            69
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/EBcj90Rdyb",
+          "expanded_url": "https://twitter.com/i/web/status/999376821853540352",
+          "display_url": "twitter.com/i/web/status/9\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 469247359,
+      "id_str": "469247359",
+      "name": "Acorn Dairy",
+      "screen_name": "AC0RNDAIRY",
+      "location": "Darlington",
+      "description": "England Food Awards-Best Dairy Supplier 2017\nOrganic dairy farm, delivering milk direct to your doorstep & cafe. Range now includes Organic Barista Milk.",
+      "url": "http://t.co/7gxqr9N6he",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/7gxqr9N6he",
+              "expanded_url": "http://www.acorndairy.co.uk",
+              "display_url": "acorndairy.co.uk",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2017,
+      "friends_count": 1816,
+      "listed_count": 47,
+      "created_at": "Fri Jan 20 11:45:10 +0000 2012",
+      "favourites_count": 3433,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3347,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1127935025209647104/nZIehYBx_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1127935025209647104/nZIehYBx_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/469247359/1514896099",
+      "profile_link_color": "3CB300",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 999375017287868416,
+    "quoted_status_id_str": "999375017287868416",
+    "quoted_status": {
+      "created_at": "Wed May 23 19:42:26 +0000 2018",
+      "id": 999375017287868416,
+      "id_str": "999375017287868416",
+      "text": "@AC0RNDAIRY @organicUK @skedone @gnomeicide @organicmylk @CotteswoldDairy What's the best container to keep milk co\u2026 https://t.co/7lcRyJ915g",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AC0RNDAIRY",
+            "name": "Acorn Dairy",
+            "id": 469247359,
+            "id_str": "469247359",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "organicUK",
+            "name": "Organic UK",
+            "id": 111040216,
+            "id_str": "111040216",
+            "indices": [
+              12,
+              22
+            ]
+          },
+          {
+            "screen_name": "skedone",
+            "name": "skedone",
+            "id": 20670197,
+            "id_str": "20670197",
+            "indices": [
+              23,
+              31
+            ]
+          },
+          {
+            "screen_name": "gnomeicide",
+            "name": "Cab Davidson #FBPE",
+            "id": 177199690,
+            "id_str": "177199690",
+            "indices": [
+              32,
+              43
+            ]
+          },
+          {
+            "screen_name": "OrganicMylk",
+            "name": "Organic Mylk",
+            "id": 1189236167969071107,
+            "id_str": "1189236167969071107",
+            "indices": [
+              44,
+              56
+            ]
+          },
+          {
+            "screen_name": "CotteswoldDairy",
+            "name": "Cotteswold Dairy",
+            "id": 252532478,
+            "id_str": "252532478",
+            "indices": [
+              57,
+              73
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/7lcRyJ915g",
+            "expanded_url": "https://twitter.com/i/web/status/999375017287868416",
+            "display_url": "twitter.com/i/web/status/9\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 999374617725865986,
+      "in_reply_to_status_id_str": "999374617725865986",
+      "in_reply_to_user_id": 469247359,
+      "in_reply_to_user_id_str": "469247359",
+      "in_reply_to_screen_name": "AC0RNDAIRY",
+      "user": {
+        "id": 393578787,
+        "id_str": "393578787",
+        "name": "Jemma Moran",
+        "screen_name": "JemmaMoran",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1667,
+        "friends_count": 997,
+        "listed_count": 15,
+        "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+        "favourites_count": 5420,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3347,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 999375017287868416,
+  "quoted_status_id_str": "999375017287868416",
+  "retweet_count": 1,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

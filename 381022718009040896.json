@@ -1,0 +1,234 @@
+{
+  "created_at": "Fri Sep 20 11:51:09 +0000 2013",
+  "id": 381022718009040896,
+  "id_str": "381022718009040896",
+  "text": "RT @rivercottage: #uglyveg - it's not fair @Tesco, @asda, @Morrisons, @sainsburys and @waitrose RT! http://t.co/xLuvgRyAMt",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uglyveg",
+        "indices": [
+          18,
+          26
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "rivercottage",
+        "name": "River Cottage",
+        "id": 36018499,
+        "id_str": "36018499",
+        "indices": [
+          3,
+          16
+        ]
+      },
+      {
+        "screen_name": "Tesco",
+        "name": "Tesco",
+        "id": 271986064,
+        "id_str": "271986064",
+        "indices": [
+          43,
+          49
+        ]
+      },
+      {
+        "screen_name": "asda",
+        "name": "Asda",
+        "id": 20123366,
+        "id_str": "20123366",
+        "indices": [
+          51,
+          56
+        ]
+      },
+      {
+        "screen_name": "Morrisons",
+        "name": "Morrisons",
+        "id": 224168895,
+        "id_str": "224168895",
+        "indices": [
+          58,
+          68
+        ]
+      },
+      {
+        "screen_name": "sainsburys",
+        "name": "Sainsbury's",
+        "id": 80685646,
+        "id_str": "80685646",
+        "indices": [
+          70,
+          81
+        ]
+      },
+      {
+        "screen_name": "waitrose",
+        "name": "Waitrose & Partners",
+        "id": 46328741,
+        "id_str": "46328741",
+        "indices": [
+          86,
+          95
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 381021858562179073,
+        "id_str": "381021858562179073",
+        "indices": [
+          100,
+          122
+        ],
+        "media_url": "http://pbs.twimg.com/media/BUmpXJNCAAE7P8i.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/BUmpXJNCAAE7P8i.jpg",
+        "url": "http://t.co/xLuvgRyAMt",
+        "display_url": "pic.twitter.com/xLuvgRyAMt",
+        "expanded_url": "https://twitter.com/rivercottage/status/381021858553790464/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 244,
+            "h": 331,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 244,
+            "h": 331,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 244,
+            "h": 331,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 381021858553790464,
+        "source_status_id_str": "381021858553790464",
+        "source_user_id": 36018499,
+        "source_user_id_str": "36018499"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 381021858562179073,
+        "id_str": "381021858562179073",
+        "indices": [
+          100,
+          122
+        ],
+        "media_url": "http://pbs.twimg.com/media/BUmpXJNCAAE7P8i.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/BUmpXJNCAAE7P8i.jpg",
+        "url": "http://t.co/xLuvgRyAMt",
+        "display_url": "pic.twitter.com/xLuvgRyAMt",
+        "expanded_url": "https://twitter.com/rivercottage/status/381021858553790464/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 244,
+            "h": 331,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 244,
+            "h": 331,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 244,
+            "h": 331,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 381021858553790464,
+        "source_status_id_str": "381021858553790464",
+        "source_user_id": 36018499,
+        "source_user_id_str": "36018499"
+      }
+    ]
+  },
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

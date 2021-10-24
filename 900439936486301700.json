@@ -1,0 +1,323 @@
+{
+  "created_at": "Wed Aug 23 19:29:44 +0000 2017",
+  "id": 900439936486301700,
+  "id_str": "900439936486301700",
+  "text": "RT @JennyMBriggs: It's #breakfast week on #OrganicHour &amp; I could chat about brekkie all day every day... @organicukfood https://t.co/ghdPG1\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "breakfast",
+        "indices": [
+          23,
+          33
+        ]
+      },
+      {
+        "text": "OrganicHour",
+        "indices": [
+          42,
+          54
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "JennyMBriggs",
+        "name": "Jenny Briggs",
+        "id": 126281432,
+        "id_str": "126281432",
+        "indices": [
+          3,
+          16
+        ]
+      },
+      {
+        "screen_name": "organicukfood",
+        "name": "organicukfood",
+        "id": 940128036409688064,
+        "id_str": "940128036409688064",
+        "indices": [
+          109,
+          123
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Aug 23 19:28:07 +0000 2017",
+    "id": 900439527814287360,
+    "id_str": "900439527814287360",
+    "text": "It's #breakfast week on #OrganicHour &amp; I could chat about brekkie all day every day... @organicukfood https://t.co/ghdPG1Ae2O",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "breakfast",
+          "indices": [
+            5,
+            15
+          ]
+        },
+        {
+          "text": "OrganicHour",
+          "indices": [
+            24,
+            36
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "organicukfood",
+          "name": "organicukfood",
+          "id": 940128036409688064,
+          "id_str": "940128036409688064",
+          "indices": [
+            91,
+            105
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 900439516661633025,
+          "id_str": "900439516661633025",
+          "indices": [
+            106,
+            129
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/DH8A-DxXUAEav3f.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DH8A-DxXUAEav3f.jpg",
+          "url": "https://t.co/ghdPG1Ae2O",
+          "display_url": "pic.twitter.com/ghdPG1Ae2O",
+          "expanded_url": "https://twitter.com/JennyMBriggs/status/900439527814287360/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 480,
+              "h": 270,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 480,
+              "h": 270,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 480,
+              "h": 270,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 900439516661633025,
+          "id_str": "900439516661633025",
+          "indices": [
+            106,
+            129
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/DH8A-DxXUAEav3f.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DH8A-DxXUAEav3f.jpg",
+          "url": "https://t.co/ghdPG1Ae2O",
+          "display_url": "pic.twitter.com/ghdPG1Ae2O",
+          "expanded_url": "https://twitter.com/JennyMBriggs/status/900439527814287360/photo/1",
+          "type": "animated_gif",
+          "sizes": {
+            "medium": {
+              "w": 480,
+              "h": 270,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 480,
+              "h": 270,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 480,
+              "h": 270,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/DH8A-DxXUAEav3f.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://giphy.com\" rel=\"nofollow\">Giphy Share</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 126281432,
+      "id_str": "126281432",
+      "name": "Jenny Briggs",
+      "screen_name": "JennyMBriggs",
+      "location": "Bristol",
+      "description": "Works for @GreenhouseComms. Driving change towards a low carbon economy where nature thrives. \ud83c\udf31\ud83c\udf0d\n\nShe/Her. Views my own!",
+      "url": "https://t.co/Xkq0BliNyf",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Xkq0BliNyf",
+              "expanded_url": "https://www.greenhousepr.co.uk/jenny-briggs/",
+              "display_url": "greenhousepr.co.uk/jenny-briggs/",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1477,
+      "friends_count": 4498,
+      "listed_count": 47,
+      "created_at": "Thu Mar 25 10:27:53 +0000 2010",
+      "favourites_count": 17251,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3596,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/592745916400021507/EuVwoIKe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/592745916400021507/EuVwoIKe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/126281432/1627052136",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

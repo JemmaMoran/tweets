@@ -1,0 +1,190 @@
+{
+  "created_at": "Sat Dec 19 19:18:20 +0000 2020",
+  "id": 1340375936336838658,
+  "id_str": "1340375936336838658",
+  "text": "RT @BigBrotherWatch: \ud83d\udea8 Reports that a Tier 4 lockdown for London and South East is to be imposed by Ministers from tonight.\n\nThis would put\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "BigBrotherWatch",
+        "name": "Big Brother Watch",
+        "id": 76004287,
+        "id_str": "76004287",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Dec 19 15:22:07 +0000 2020",
+    "id": 1340316490520784901,
+    "id_str": "1340316490520784901",
+    "text": "\ud83d\udea8 Reports that a Tier 4 lockdown for London and South East is to be imposed by Ministers from tonight.\n\nThis would\u2026 https://t.co/Q6Nu0X6kYS",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Q6Nu0X6kYS",
+          "expanded_url": "https://twitter.com/i/web/status/1340316490520784901",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 76004287,
+      "id_str": "76004287",
+      "name": "Big Brother Watch",
+      "screen_name": "BigBrotherWatch",
+      "location": "United Kingdom",
+      "description": "Defending civil liberties and protecting privacy.",
+      "url": "https://t.co/UkP8w97Tr0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/UkP8w97Tr0",
+              "expanded_url": "https://bigbrotherwatch.org.uk/join-us/",
+              "display_url": "bigbrotherwatch.org.uk/join-us/",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 96374,
+      "friends_count": 3010,
+      "listed_count": 947,
+      "created_at": "Mon Sep 21 11:02:36 +0000 2009",
+      "favourites_count": 5398,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 12527,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1229388982376706049/Ck5DzrgX_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1229388982376706049/Ck5DzrgX_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/76004287/1581944150",
+      "profile_link_color": "FF691F",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 342,
+    "favorite_count": 969,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 342,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

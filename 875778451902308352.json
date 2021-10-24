@@ -1,0 +1,354 @@
+{
+  "created_at": "Fri Jun 16 18:13:48 +0000 2017",
+  "id": 875778451902308352,
+  "id_str": "875778451902308352",
+  "text": "RT @actionadditives: Great letter to @TheGrocer from @AnnaLRosier : we need manufacturers to  remove the azo dyes linked to #hyperactivity\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "hyperactivity",
+        "indices": [
+          124,
+          138
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "actionadditives",
+        "name": "Action on Additives",
+        "id": 1108635805,
+        "id_str": "1108635805",
+        "indices": [
+          3,
+          19
+        ]
+      },
+      {
+        "screen_name": "TheGrocer",
+        "name": "The Grocer",
+        "id": 18972519,
+        "id_str": "18972519",
+        "indices": [
+          37,
+          47
+        ]
+      },
+      {
+        "screen_name": "AnnaLRosier",
+        "name": "Anna Rosier",
+        "id": 81620609,
+        "id_str": "81620609",
+        "indices": [
+          53,
+          65
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Jun 16 15:58:13 +0000 2017",
+    "id": 875744331822505984,
+    "id_str": "875744331822505984",
+    "text": "Great letter to @TheGrocer from @AnnaLRosier : we need manufacturers to  remove the azo dyes linked to\u2026 https://t.co/AynsyHX1Hi",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "TheGrocer",
+          "name": "The Grocer",
+          "id": 18972519,
+          "id_str": "18972519",
+          "indices": [
+            16,
+            26
+          ]
+        },
+        {
+          "screen_name": "AnnaLRosier",
+          "name": "Anna Rosier",
+          "id": 81620609,
+          "id_str": "81620609",
+          "indices": [
+            32,
+            44
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AynsyHX1Hi",
+          "expanded_url": "https://twitter.com/i/web/status/875744331822505984",
+          "display_url": "twitter.com/i/web/status/8\u2026",
+          "indices": [
+            104,
+            127
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1108635805,
+      "id_str": "1108635805",
+      "name": "Action on Additives",
+      "screen_name": "actionadditives",
+      "location": "UK",
+      "description": "We campaign to reduce additives such as colourings, flavourings and sweeteners in foods, drinks and medicines, particularly for pregnant women and children.",
+      "url": "http://t.co/rGQqBB3PDB",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/rGQqBB3PDB",
+              "expanded_url": "http://www.actiononadditives.org",
+              "display_url": "actiononadditives.org",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 397,
+      "friends_count": 963,
+      "listed_count": 5,
+      "created_at": "Mon Jan 21 10:06:02 +0000 2013",
+      "favourites_count": 146,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 464,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000609250089/c0da5ba51112960bb4f527f9821d5776_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000609250089/c0da5ba51112960bb4f527f9821d5776_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1108635805/1382016801",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 875735707532357632,
+    "quoted_status_id_str": "875735707532357632",
+    "quoted_status": {
+      "created_at": "Fri Jun 16 15:23:57 +0000 2017",
+      "id": 875735707532357632,
+      "id_str": "875735707532357632",
+      "text": "Action on additives! We couldn't agree more with @AnnaLRosier letter in @TheGrocer we must protect our little ones:\u2026 https://t.co/uBq6Gws13u",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AnnaLRosier",
+            "name": "Anna Rosier",
+            "id": 81620609,
+            "id_str": "81620609",
+            "indices": [
+              49,
+              61
+            ]
+          },
+          {
+            "screen_name": "TheGrocer",
+            "name": "The Grocer",
+            "id": 18972519,
+            "id_str": "18972519",
+            "indices": [
+              72,
+              82
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/uBq6Gws13u",
+            "expanded_url": "https://twitter.com/i/web/status/875735707532357632",
+            "display_url": "twitter.com/i/web/status/8\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 49991311,
+        "id_str": "49991311",
+        "name": "Organix Food",
+        "screen_name": "organixbrands",
+        "location": "UK",
+        "description": "Hello. We make organic, tasty and nutritious baby and toddler food.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 15997,
+        "friends_count": 5904,
+        "listed_count": 0,
+        "created_at": "Tue Jun 23 14:34:59 +0000 2009",
+        "favourites_count": 10401,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 21568,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "AABA6C",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1346019812141658112/UrduHH7e_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346019812141658112/UrduHH7e_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/49991311/1596441237",
+        "profile_link_color": "050505",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "206B2B",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 875735707532357632,
+  "quoted_status_id_str": "875735707532357632",
+  "retweet_count": 2,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

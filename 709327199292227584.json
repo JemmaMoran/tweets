@@ -1,0 +1,262 @@
+{
+  "created_at": "Mon Mar 14 10:35:57 +0000 2016",
+  "id": 709327199292227584,
+  "id_str": "709327199292227584",
+  "text": "RT @HughsWaronWaste: 5k coffee cups are thrown away every minute in the UK. Less than 1% are recycled. Let's stop this madness! #wastenot h\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "wastenot",
+        "indices": [
+          128,
+          137
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "HughsWaronWaste",
+        "name": "Hugh's War on Waste",
+        "id": 3804812121,
+        "id_str": "3804812121",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Mon Mar 14 09:48:03 +0000 2016",
+    "id": 709315144141115392,
+    "id_str": "709315144141115392",
+    "text": "5k coffee cups are thrown away every minute in the UK. Less than 1% are recycled. Let's stop this madness! #wastenot https://t.co/HDGJTw8i6G",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "wastenot",
+          "indices": [
+            107,
+            116
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 709315133546360832,
+          "id_str": "709315133546360832",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cdf-WxjW8AA1bxf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cdf-WxjW8AA1bxf.jpg",
+          "url": "https://t.co/HDGJTw8i6G",
+          "display_url": "pic.twitter.com/HDGJTw8i6G",
+          "expanded_url": "https://twitter.com/HughsWaronWaste/status/709315144141115392/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 683,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 683,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 454,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 709315133546360832,
+          "id_str": "709315133546360832",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cdf-WxjW8AA1bxf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cdf-WxjW8AA1bxf.jpg",
+          "url": "https://t.co/HDGJTw8i6G",
+          "display_url": "pic.twitter.com/HDGJTw8i6G",
+          "expanded_url": "https://twitter.com/HughsWaronWaste/status/709315144141115392/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 683,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 683,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 454,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3804812121,
+      "id_str": "3804812121",
+      "name": "Hugh's War on Waste",
+      "screen_name": "HughsWaronWaste",
+      "location": "",
+      "description": "Home of Hugh's War on Waste, as seen on BBC One presented by Hugh Fearnley-Whittingstall.  Views not endorsed by BBC, account run by @keofilms.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 36243,
+      "friends_count": 651,
+      "listed_count": 227,
+      "created_at": "Mon Sep 28 15:09:11 +0000 2015",
+      "favourites_count": 981,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1012,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/984824510028439553/9nyvKtTb_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/984824510028439553/9nyvKtTb_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3804812121/1523634470",
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 774,
+    "favorite_count": 620,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 774,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

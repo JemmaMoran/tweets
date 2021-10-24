@@ -1,0 +1,221 @@
+{
+  "created_at": "Tue Oct 07 08:57:25 +0000 2014",
+  "id": 519411159704018944,
+  "id_str": "519411159704018944",
+  "text": "RT @BloomsburyBooks: @JemmaMoran oh yes - this is one of our absolute faves! @DevonLibraries",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "BloomsburyBooks",
+        "name": "Bloomsbury UK",
+        "id": 18804364,
+        "id_str": "18804364",
+        "indices": [
+          3,
+          19
+        ]
+      },
+      {
+        "screen_name": "JemmaMoran",
+        "name": "Jemma Moran",
+        "id": 393578787,
+        "id_str": "393578787",
+        "indices": [
+          21,
+          32
+        ]
+      },
+      {
+        "screen_name": "DevonLibraries",
+        "name": "Devon Libraries",
+        "id": 20598281,
+        "id_str": "20598281",
+        "indices": [
+          77,
+          92
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Oct 07 08:55:54 +0000 2014",
+    "id": 519410779284836352,
+    "id_str": "519410779284836352",
+    "text": "@JemmaMoran oh yes - this is one of our absolute faves! @DevonLibraries",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "JemmaMoran",
+          "name": "Jemma Moran",
+          "id": 393578787,
+          "id_str": "393578787",
+          "indices": [
+            0,
+            11
+          ]
+        },
+        {
+          "screen_name": "DevonLibraries",
+          "name": "Devon Libraries",
+          "id": 20598281,
+          "id_str": "20598281",
+          "indices": [
+            56,
+            71
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 519410000176111616,
+    "in_reply_to_status_id_str": "519410000176111616",
+    "in_reply_to_user_id": 393578787,
+    "in_reply_to_user_id_str": "393578787",
+    "in_reply_to_screen_name": "JemmaMoran",
+    "user": {
+      "id": 18804364,
+      "id_str": "18804364",
+      "name": "Bloomsbury UK",
+      "screen_name": "BloomsburyBooks",
+      "location": "London England",
+      "description": "Publishers of fiction & non-fiction by authors including Khaled Hosseini, Susanna Clarke, J.K. Rowling, George Saunders Elizabeth Gilbert & Sarah J. Maas",
+      "url": "https://t.co/FgDXZnfTEr",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/FgDXZnfTEr",
+              "expanded_url": "http://www.bloomsbury.com",
+              "display_url": "bloomsbury.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 182905,
+      "friends_count": 4273,
+      "listed_count": 3098,
+      "created_at": "Fri Jan 09 15:43:12 +0000 2009",
+      "favourites_count": 16377,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 42279,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9AB4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1361970563770691586/Ohl5ei5g_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1361970563770691586/Ohl5ei5g_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18804364/1634285316",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "C2C2C2",
+      "profile_sidebar_fill_color": "78B5CE",
+      "profile_text_color": "1C304A",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

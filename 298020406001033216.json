@@ -1,0 +1,196 @@
+{
+  "created_at": "Sun Feb 03 10:49:36 +0000 2013",
+  "id": 298020406001033216,
+  "id_str": "298020406001033216",
+  "text": "RT @JarroldsNorwich: For your chance to #win a \u00a350 Jarrolds Gift Card for you or a loved one, simply follow us on Twitter and RT this tw ...",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "win",
+        "indices": [
+          40,
+          44
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Feb 02 09:45:00 +0000 2013",
+    "id": 297641761067651072,
+    "id_str": "297641761067651072",
+    "text": "For your chance to #win a \u00a350 Jarrolds Gift Card for you or a loved one, simply follow us on Twitter and RT this tweet. http://t.co/bSCYaLDw",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "win",
+          "indices": [
+            19,
+            23
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "http://t.co/bSCYaLDw",
+          "expanded_url": "http://jarroldsnorwich.tumblr.com/post/42013661675/win-a-jarrolds-valentine-gift-card-on-twitter",
+          "display_url": "jarroldsnorwich.tumblr.com/post/420136616\u2026",
+          "indices": [
+            120,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 441691873,
+      "id_str": "441691873",
+      "name": "Jarrold",
+      "screen_name": "JarroldNorwich",
+      "location": "Norwich, UK",
+      "description": "Unique, independent and at the heart of Norwich since 1770.",
+      "url": "https://t.co/EkMlMkHnEp",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/EkMlMkHnEp",
+              "expanded_url": "https://www.jarrold.co.uk",
+              "display_url": "jarrold.co.uk",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 12932,
+      "friends_count": 2953,
+      "listed_count": 142,
+      "created_at": "Tue Dec 20 10:00:22 +0000 2011",
+      "favourites_count": 9277,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 21830,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "3D003C",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1160827790566023168/ZpwsZh3W_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1160827790566023168/ZpwsZh3W_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/441691873/1599045484",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 95,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 95,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

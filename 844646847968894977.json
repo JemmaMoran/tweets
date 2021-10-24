@@ -1,0 +1,409 @@
+{
+  "created_at": "Wed Mar 22 20:27:55 +0000 2017",
+  "id": 844646847968894977,
+  "id_str": "844646847968894977",
+  "text": "RT @JennyMBriggs: @JemmaMoran #OrganicHour always makes me so hungry... https://t.co/azkctBOgkn",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "OrganicHour",
+        "indices": [
+          30,
+          42
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "JennyMBriggs",
+        "name": "Jenny Briggs",
+        "id": 126281432,
+        "id_str": "126281432",
+        "indices": [
+          3,
+          16
+        ]
+      },
+      {
+        "screen_name": "JemmaMoran",
+        "name": "Jemma Moran",
+        "id": 393578787,
+        "id_str": "393578787",
+        "indices": [
+          18,
+          29
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 844645460799315968,
+        "id_str": "844645460799315968",
+        "indices": [
+          72,
+          95
+        ],
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/C7jIkkwW4AAdos8.jpg",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C7jIkkwW4AAdos8.jpg",
+        "url": "https://t.co/azkctBOgkn",
+        "display_url": "pic.twitter.com/azkctBOgkn",
+        "expanded_url": "https://twitter.com/JennyMBriggs/status/844645480529321986/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 498,
+            "h": 372,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 498,
+            "h": 372,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 498,
+            "h": 372,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 844645480529321986,
+        "source_status_id_str": "844645480529321986",
+        "source_user_id": 126281432,
+        "source_user_id_str": "126281432"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 844645460799315968,
+        "id_str": "844645460799315968",
+        "indices": [
+          72,
+          95
+        ],
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/C7jIkkwW4AAdos8.jpg",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C7jIkkwW4AAdos8.jpg",
+        "url": "https://t.co/azkctBOgkn",
+        "display_url": "pic.twitter.com/azkctBOgkn",
+        "expanded_url": "https://twitter.com/JennyMBriggs/status/844645480529321986/photo/1",
+        "type": "animated_gif",
+        "sizes": {
+          "large": {
+            "w": 498,
+            "h": 372,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 498,
+            "h": 372,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 498,
+            "h": 372,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 844645480529321986,
+        "source_status_id_str": "844645480529321986",
+        "source_user_id": 126281432,
+        "source_user_id_str": "126281432",
+        "video_info": {
+          "aspect_ratio": [
+            83,
+            62
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/C7jIkkwW4AAdos8.mp4"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Mar 22 20:22:29 +0000 2017",
+    "id": 844645480529321986,
+    "id_str": "844645480529321986",
+    "text": "@JemmaMoran #OrganicHour always makes me so hungry... https://t.co/azkctBOgkn",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "OrganicHour",
+          "indices": [
+            12,
+            24
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "JemmaMoran",
+          "name": "Jemma Moran",
+          "id": 393578787,
+          "id_str": "393578787",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 844645460799315968,
+          "id_str": "844645460799315968",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/C7jIkkwW4AAdos8.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C7jIkkwW4AAdos8.jpg",
+          "url": "https://t.co/azkctBOgkn",
+          "display_url": "pic.twitter.com/azkctBOgkn",
+          "expanded_url": "https://twitter.com/JennyMBriggs/status/844645480529321986/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 498,
+              "h": 372,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 498,
+              "h": 372,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 498,
+              "h": 372,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 844645460799315968,
+          "id_str": "844645460799315968",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/C7jIkkwW4AAdos8.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C7jIkkwW4AAdos8.jpg",
+          "url": "https://t.co/azkctBOgkn",
+          "display_url": "pic.twitter.com/azkctBOgkn",
+          "expanded_url": "https://twitter.com/JennyMBriggs/status/844645480529321986/photo/1",
+          "type": "animated_gif",
+          "sizes": {
+            "large": {
+              "w": 498,
+              "h": 372,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 498,
+              "h": 372,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 498,
+              "h": 372,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              83,
+              62
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/C7jIkkwW4AAdos8.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 844644660354146310,
+    "in_reply_to_status_id_str": "844644660354146310",
+    "in_reply_to_user_id": 393578787,
+    "in_reply_to_user_id_str": "393578787",
+    "in_reply_to_screen_name": "JemmaMoran",
+    "user": {
+      "id": 126281432,
+      "id_str": "126281432",
+      "name": "Jenny Briggs",
+      "screen_name": "JennyMBriggs",
+      "location": "Bristol",
+      "description": "Works for @GreenhouseComms. Driving change towards a low carbon economy where nature thrives. \ud83c\udf31\ud83c\udf0d\n\nShe/Her. Views my own!",
+      "url": "https://t.co/Xkq0BliNyf",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Xkq0BliNyf",
+              "expanded_url": "https://www.greenhousepr.co.uk/jenny-briggs/",
+              "display_url": "greenhousepr.co.uk/jenny-briggs/",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1477,
+      "friends_count": 4498,
+      "listed_count": 47,
+      "created_at": "Thu Mar 25 10:27:53 +0000 2010",
+      "favourites_count": 17251,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3596,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/592745916400021507/EuVwoIKe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/592745916400021507/EuVwoIKe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/126281432/1627052136",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 2,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

@@ -1,0 +1,366 @@
+{
+  "created_at": "Thu Jun 05 22:12:32 +0000 2014",
+  "id": 474675162907164672,
+  "id_str": "474675162907164672",
+  "text": "RT @TelegraphNews: D-Day veteran, 89, parachutes into Normandy again http://t.co/nw6vwi03Fp http://t.co/jb7vC5LXg4",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "TelegraphNews",
+        "name": "Telegraph Breaking News",
+        "id": 14138785,
+        "id_str": "14138785",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/nw6vwi03Fp",
+        "expanded_url": "http://fw.to/Qy1TC0k",
+        "display_url": "fw.to/Qy1TC0k",
+        "indices": [
+          69,
+          91
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 474625413960830977,
+        "id_str": "474625413960830977",
+        "indices": [
+          92,
+          114
+        ],
+        "media_url": "http://pbs.twimg.com/media/BpY1TKCCEAETcrX.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/BpY1TKCCEAETcrX.jpg",
+        "url": "http://t.co/jb7vC5LXg4",
+        "display_url": "pic.twitter.com/jb7vC5LXg4",
+        "expanded_url": "https://twitter.com/TelegraphNews/status/474630540935458816/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 460,
+            "h": 287,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 460,
+            "h": 287,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 460,
+            "h": 287,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 474630540935458816,
+        "source_status_id_str": "474630540935458816",
+        "source_user_id": 14138785,
+        "source_user_id_str": "14138785"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 474625413960830977,
+        "id_str": "474625413960830977",
+        "indices": [
+          92,
+          114
+        ],
+        "media_url": "http://pbs.twimg.com/media/BpY1TKCCEAETcrX.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/BpY1TKCCEAETcrX.jpg",
+        "url": "http://t.co/jb7vC5LXg4",
+        "display_url": "pic.twitter.com/jb7vC5LXg4",
+        "expanded_url": "https://twitter.com/TelegraphNews/status/474630540935458816/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 460,
+            "h": 287,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 460,
+            "h": 287,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 460,
+            "h": 287,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 474630540935458816,
+        "source_status_id_str": "474630540935458816",
+        "source_user_id": 14138785,
+        "source_user_id_str": "14138785"
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Jun 05 19:15:13 +0000 2014",
+    "id": 474630540935458816,
+    "id_str": "474630540935458816",
+    "text": "D-Day veteran, 89, parachutes into Normandy again http://t.co/nw6vwi03Fp http://t.co/jb7vC5LXg4",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "http://t.co/nw6vwi03Fp",
+          "expanded_url": "http://fw.to/Qy1TC0k",
+          "display_url": "fw.to/Qy1TC0k",
+          "indices": [
+            50,
+            72
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 474625413960830977,
+          "id_str": "474625413960830977",
+          "indices": [
+            73,
+            95
+          ],
+          "media_url": "http://pbs.twimg.com/media/BpY1TKCCEAETcrX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/BpY1TKCCEAETcrX.jpg",
+          "url": "http://t.co/jb7vC5LXg4",
+          "display_url": "pic.twitter.com/jb7vC5LXg4",
+          "expanded_url": "https://twitter.com/TelegraphNews/status/474630540935458816/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 460,
+              "h": 287,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 460,
+              "h": 287,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 460,
+              "h": 287,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 474625413960830977,
+          "id_str": "474625413960830977",
+          "indices": [
+            73,
+            95
+          ],
+          "media_url": "http://pbs.twimg.com/media/BpY1TKCCEAETcrX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/BpY1TKCCEAETcrX.jpg",
+          "url": "http://t.co/jb7vC5LXg4",
+          "display_url": "pic.twitter.com/jb7vC5LXg4",
+          "expanded_url": "https://twitter.com/TelegraphNews/status/474630540935458816/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 460,
+              "h": 287,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 460,
+              "h": 287,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 460,
+              "h": 287,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14138785,
+      "id_str": "14138785",
+      "name": "Telegraph Breaking News",
+      "screen_name": "TelegraphNews",
+      "location": "London, UK",
+      "description": "The latest national and international news from the @Telegraph team.",
+      "url": "https://t.co/et7R6FVuTQ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/et7R6FVuTQ",
+              "expanded_url": "http://www.telegraph.co.uk",
+              "display_url": "telegraph.co.uk",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 762697,
+      "friends_count": 248,
+      "listed_count": 12080,
+      "created_at": "Thu Mar 13 11:27:48 +0000 2008",
+      "favourites_count": 37,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 211498,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "007084",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/943090255812530176/-G_w4vWC_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/943090255812530176/-G_w4vWC_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14138785/1513685223",
+      "profile_link_color": "007084",
+      "profile_sidebar_border_color": "A1A1A1",
+      "profile_sidebar_fill_color": "F4F4F0",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 660,
+    "favorite_count": 461,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 660,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

@@ -1,0 +1,211 @@
+{
+  "created_at": "Tue Jan 26 09:05:08 +0000 2016",
+  "id": 691909727668846592,
+  "id_str": "691909727668846592",
+  "text": "RT @PenguinUKBooks: Tune into @BBCr4today to hear editor Jo Hanks talking about rediscovering a lost Beatrix Potter tale.",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "PenguinUKBooks",
+        "name": "Penguin Books UK",
+        "id": 14123751,
+        "id_str": "14123751",
+        "indices": [
+          3,
+          18
+        ]
+      },
+      {
+        "screen_name": "BBCr4today",
+        "name": "BBC Radio 4 Today",
+        "id": 8170292,
+        "id_str": "8170292",
+        "indices": [
+          30,
+          41
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Jan 26 08:21:49 +0000 2016",
+    "id": 691898824550432768,
+    "id_str": "691898824550432768",
+    "text": "Tune into @BBCr4today to hear editor Jo Hanks talking about rediscovering a lost Beatrix Potter tale.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "BBCr4today",
+          "name": "BBC Radio 4 Today",
+          "id": 8170292,
+          "id_str": "8170292",
+          "indices": [
+            10,
+            21
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14123751,
+      "id_str": "14123751",
+      "name": "Penguin Books UK",
+      "screen_name": "PenguinUKBooks",
+      "location": "London",
+      "description": "Publishing the best books and authors for over 80 years. Discover your next great read at https://t.co/WNGHL64Zoy.",
+      "url": "https://t.co/taKnucRv92",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/taKnucRv92",
+              "expanded_url": "http://www.penguin.co.uk",
+              "display_url": "penguin.co.uk",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/WNGHL64Zoy",
+              "expanded_url": "http://penguin.co.uk",
+              "display_url": "penguin.co.uk",
+              "indices": [
+                90,
+                113
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1880756,
+      "friends_count": 285599,
+      "listed_count": 10280,
+      "created_at": "Tue Mar 11 14:28:51 +0000 2008",
+      "favourites_count": 16984,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 38726,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "CCCCCC",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/748834135083458560/vvjAzfPh_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/748834135083458560/vvjAzfPh_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14123751/1608138007",
+      "profile_link_color": "FF6600",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "E0FF92",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 22,
+    "favorite_count": 20,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 22,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

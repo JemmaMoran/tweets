@@ -1,0 +1,292 @@
+{
+  "created_at": "Sat Jan 02 15:33:12 +0000 2016",
+  "id": 683310079878283265,
+  "id_str": "683310079878283265",
+  "text": "RT @suitedyogi: Great post on #Digitaldetox by @JemmaMoran  @HuffPostUK  https://t.co/12h6jvpMpL",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Digitaldetox",
+        "indices": [
+          30,
+          43
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "suitedyogi",
+        "name": "The Suited Yogi",
+        "id": 2441917723,
+        "id_str": "2441917723",
+        "indices": [
+          3,
+          14
+        ]
+      },
+      {
+        "screen_name": "JemmaMoran",
+        "name": "Jemma Moran",
+        "id": 393578787,
+        "id_str": "393578787",
+        "indices": [
+          47,
+          58
+        ]
+      },
+      {
+        "screen_name": "HuffPostUK",
+        "name": "HuffPost UK",
+        "id": 271413771,
+        "id_str": "271413771",
+        "indices": [
+          60,
+          71
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/12h6jvpMpL",
+        "expanded_url": "http://www.huffingtonpost.co.uk/jemma-moran/2016-digital-detox_b_8898760.html",
+        "display_url": "huffingtonpost.co.uk/jemma-moran/20\u2026",
+        "indices": [
+          73,
+          96
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Jan 02 15:28:28 +0000 2016",
+    "id": 683308887974477825,
+    "id_str": "683308887974477825",
+    "text": "Great post on #Digitaldetox by @JemmaMoran  @HuffPostUK  https://t.co/12h6jvpMpL",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Digitaldetox",
+          "indices": [
+            14,
+            27
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "JemmaMoran",
+          "name": "Jemma Moran",
+          "id": 393578787,
+          "id_str": "393578787",
+          "indices": [
+            31,
+            42
+          ]
+        },
+        {
+          "screen_name": "HuffPostUK",
+          "name": "HuffPost UK",
+          "id": 271413771,
+          "id_str": "271413771",
+          "indices": [
+            44,
+            55
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/12h6jvpMpL",
+          "expanded_url": "http://www.huffingtonpost.co.uk/jemma-moran/2016-digital-detox_b_8898760.html",
+          "display_url": "huffingtonpost.co.uk/jemma-moran/20\u2026",
+          "indices": [
+            57,
+            80
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2441917723,
+      "id_str": "2441917723",
+      "name": "The Suited Yogi",
+      "screen_name": "suitedyogi",
+      "location": "Dublin",
+      "description": "Behaviour Chg @UnPlugHQ \nMSc Org Psych @DCU \nTeach @DigiWellInstit \nSpeaker -#Loneliness #DigitalWellbeing\nTenor @TheGSGC\nProne2 random dancing\nDaddy to Enzo \ud83e\uddae",
+      "url": "https://t.co/OvpJj8j8wr",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/OvpJj8j8wr",
+              "expanded_url": "https://www.linkedin.com/in/chris-flack/",
+              "display_url": "linkedin.com/in/chris-flack/",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2277,
+      "friends_count": 392,
+      "listed_count": 105,
+      "created_at": "Sun Apr 13 16:10:09 +0000 2014",
+      "favourites_count": 8257,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5320,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/781053789042253824/A_jxpbSh_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/781053789042253824/A_jxpbSh_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2441917723/1549129901",
+      "profile_link_color": "9266CC",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "7dde0febc9ef245b",
+      "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json",
+      "place_type": "city",
+      "name": "Dublin City",
+      "full_name": "Dublin City, Ireland",
+      "country_code": "IE",
+      "country": "Ireland",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.387438,
+              53.2987449
+            ],
+            [
+              -6.1078047,
+              53.2987449
+            ],
+            [
+              -6.1078047,
+              53.4110598
+            ],
+            [
+              -6.387438,
+              53.4110598
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 2,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

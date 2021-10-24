@@ -1,0 +1,212 @@
+{
+  "created_at": "Wed Jun 21 19:33:48 +0000 2017",
+  "id": 877610523529027587,
+  "id_str": "877610523529027587",
+  "text": "RT @FlahavansUK: \u2026And some more savoury porridge inspo! This one combines @FlahavansUK organic oats with bacon, cheese &amp; eggs. Brunch in a\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "FlahavansUK",
+        "name": "Flahavan's UK",
+        "id": 602739617,
+        "id_str": "602739617",
+        "indices": [
+          3,
+          15
+        ]
+      },
+      {
+        "screen_name": "FlahavansUK",
+        "name": "Flahavan's UK",
+        "id": 602739617,
+        "id_str": "602739617",
+        "indices": [
+          74,
+          86
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Jun 21 19:31:37 +0000 2017",
+    "id": 877609973882081280,
+    "id_str": "877609973882081280",
+    "text": "\u2026And some more savoury porridge inspo! This one combines @FlahavansUK organic oats with bacon, cheese &amp; eggs. Brunc\u2026 https://t.co/4HnhQK5hco",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "FlahavansUK",
+          "name": "Flahavan's UK",
+          "id": 602739617,
+          "id_str": "602739617",
+          "indices": [
+            57,
+            69
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4HnhQK5hco",
+          "expanded_url": "https://twitter.com/i/web/status/877609973882081280",
+          "display_url": "twitter.com/i/web/status/8\u2026",
+          "indices": [
+            121,
+            144
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 602739617,
+      "id_str": "602739617",
+      "name": "Flahavan's UK",
+      "screen_name": "FlahavansUK",
+      "location": "",
+      "description": "A family company producing #NaturallyGood, award-winning oats in Ireland for over six generations. Proud producer of the UK's leading organic oat brand.",
+      "url": "https://t.co/s2h18cReod",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/s2h18cReod",
+              "expanded_url": "https://www.flahavans.co.uk/",
+              "display_url": "flahavans.co.uk",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3048,
+      "friends_count": 316,
+      "listed_count": 0,
+      "created_at": "Fri Jun 08 13:03:18 +0000 2012",
+      "favourites_count": 2420,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3167,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/824671679859347456/alpyE8Ff_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/824671679859347456/alpyE8Ff_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/602739617/1602172529",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 3,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

@@ -1,0 +1,275 @@
+{
+  "created_at": "Fri Jun 10 14:20:30 +0000 2016",
+  "id": 741273842769858562,
+  "id_str": "741273842769858562",
+  "text": "RT @BlackCowVodka: The Queen probably doesn't drink vodka but if she did... Happy birthday, Ma'am, and drink responsibly! #Queenat90 https:\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Queenat90",
+        "indices": [
+          122,
+          132
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "BlackCowVodka",
+        "name": "Black Cow",
+        "id": 576234617,
+        "id_str": "576234617",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Jun 10 14:14:02 +0000 2016",
+    "id": 741272211496030210,
+    "id_str": "741272211496030210",
+    "text": "The Queen probably doesn't drink vodka but if she did... Happy birthday, Ma'am, and drink responsibly! #Queenat90 https://t.co/8d4qS2kQKY",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Queenat90",
+          "indices": [
+            103,
+            113
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 741272200880267264,
+          "id_str": "741272200880267264",
+          "indices": [
+            114,
+            137
+          ],
+          "media_url": "http://pbs.twimg.com/media/CkmHI6dXIAAAV85.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CkmHI6dXIAAAV85.jpg",
+          "url": "https://t.co/8d4qS2kQKY",
+          "display_url": "pic.twitter.com/8d4qS2kQKY",
+          "expanded_url": "https://twitter.com/BlackCowVodka/status/741272211496030210/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1551,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 515,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 909,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 741272200880267264,
+          "id_str": "741272200880267264",
+          "indices": [
+            114,
+            137
+          ],
+          "media_url": "http://pbs.twimg.com/media/CkmHI6dXIAAAV85.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CkmHI6dXIAAAV85.jpg",
+          "url": "https://t.co/8d4qS2kQKY",
+          "display_url": "pic.twitter.com/8d4qS2kQKY",
+          "expanded_url": "https://twitter.com/BlackCowVodka/status/741272211496030210/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1551,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 515,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 909,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 576234617,
+      "id_str": "576234617",
+      "name": "Black Cow",
+      "screen_name": "BlackCowVodka",
+      "location": "Dorset, UK",
+      "description": "Black Cow is the world\u2019s first Pure Milk Vodka. Made in West Dorset from the milk of grass grazed cows, it has an exceptionally smooth and creamy character.",
+      "url": "https://t.co/e07NPfAaFe",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/e07NPfAaFe",
+              "expanded_url": "http://www.blackcow.co.uk",
+              "display_url": "blackcow.co.uk",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 10171,
+      "friends_count": 3230,
+      "listed_count": 114,
+      "created_at": "Thu May 10 13:29:46 +0000 2012",
+      "favourites_count": 11357,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 7233,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1380143366189547521/Vh4o7WjI_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1380143366189547521/Vh4o7WjI_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/576234617/1632742401",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 16,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 6,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

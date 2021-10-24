@@ -1,0 +1,280 @@
+{
+  "created_at": "Thu Oct 02 13:40:17 +0000 2014",
+  "id": 517670406833336321,
+  "id_str": "517670406833336321",
+  "text": "RT @BBCEngland: A life-size Sir Cliff Richard doll is used by a woman to make her feel safe when driving alone http://t.co/czktRYJMkE http:\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "BBCEngland",
+        "name": "BBC News England",
+        "id": 622113,
+        "id_str": "622113",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/czktRYJMkE",
+        "expanded_url": "http://bbc.in/1tjMQcA",
+        "display_url": "bbc.in/1tjMQcA",
+        "indices": [
+          111,
+          133
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Oct 02 11:56:28 +0000 2014",
+    "id": 517644280501112833,
+    "id_str": "517644280501112833",
+    "text": "A life-size Sir Cliff Richard doll is used by a woman to make her feel safe when driving alone http://t.co/czktRYJMkE http://t.co/x8LiShaDvo",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "http://t.co/czktRYJMkE",
+          "expanded_url": "http://bbc.in/1tjMQcA",
+          "display_url": "bbc.in/1tjMQcA",
+          "indices": [
+            95,
+            117
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 517644279729369088,
+          "id_str": "517644279729369088",
+          "indices": [
+            118,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/By8KutVIMAAV2mR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/By8KutVIMAAV2mR.jpg",
+          "url": "http://t.co/x8LiShaDvo",
+          "display_url": "pic.twitter.com/x8LiShaDvo",
+          "expanded_url": "https://twitter.com/BBCEngland/status/517644280501112833/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 624,
+              "h": 351,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 624,
+              "h": 351,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 624,
+              "h": 351,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 517644279729369088,
+          "id_str": "517644279729369088",
+          "indices": [
+            118,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/By8KutVIMAAV2mR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/By8KutVIMAAV2mR.jpg",
+          "url": "http://t.co/x8LiShaDvo",
+          "display_url": "pic.twitter.com/x8LiShaDvo",
+          "expanded_url": "https://twitter.com/BBCEngland/status/517644280501112833/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 624,
+              "h": 351,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 624,
+              "h": 351,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 624,
+              "h": 351,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 622113,
+      "id_str": "622113",
+      "name": "BBC News England",
+      "screen_name": "BBCEngland",
+      "location": "",
+      "description": "We\u2019re no longer updating this account, but you can still find our stories by following your local BBC News team. \n\nCheck our pinned tweet for the details.",
+      "url": "http://t.co/WVYX6ZSdnw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/WVYX6ZSdnw",
+              "expanded_url": "http://www.bbc.co.uk/news/england",
+              "display_url": "bbc.co.uk/news/england",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 110451,
+      "friends_count": 304,
+      "listed_count": 1185,
+      "created_at": "Wed Jan 10 15:34:40 +0000 2007",
+      "favourites_count": 367,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 163190,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1150680660090245121/lvC_hNnr_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150680660090245121/lvC_hNnr_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/622113/1584544800",
+      "profile_link_color": "1F527B",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2198,
+    "favorite_count": 1490,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 2198,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

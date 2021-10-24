@@ -1,0 +1,217 @@
+{
+  "created_at": "Wed Feb 07 20:15:03 +0000 2018",
+  "id": 961332501208797185,
+  "id_str": "961332501208797185",
+  "text": "RT @yeovalley: Tonight's #OrganicHour is all about making your money go further when buying organic. Take a look at some of our Left-Yeover\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "OrganicHour",
+        "indices": [
+          25,
+          37
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "yeovalley",
+        "name": "Yeo Valley",
+        "id": 158832205,
+        "id_str": "158832205",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Feb 07 20:12:00 +0000 2018",
+    "id": 961331732556406784,
+    "id_str": "961331732556406784",
+    "text": "Tonight's #OrganicHour is all about making your money go further when buying organic. Take a look at some of our Le\u2026 https://t.co/E8UpbScQ3Q",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "OrganicHour",
+          "indices": [
+            10,
+            22
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/E8UpbScQ3Q",
+          "expanded_url": "https://twitter.com/i/web/status/961331732556406784",
+          "display_url": "twitter.com/i/web/status/9\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 158832205,
+      "id_str": "158832205",
+      "name": "Yeo Valley",
+      "screen_name": "yeovalley",
+      "location": "Blagdon, Somerset",
+      "description": "The official Twitter for Yeo Valley. Farmers with a passion for great tasting organic dairy. http://t.co/O3YDTBGl.",
+      "url": "http://t.co/M0E8xLDgTW",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/M0E8xLDgTW",
+              "expanded_url": "http://www.facebook.com/yeovalley",
+              "display_url": "facebook.com/yeovalley",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/O3YDTBGl",
+              "expanded_url": "http://www.yeovalley.co.uk",
+              "display_url": "yeovalley.co.uk",
+              "indices": [
+                93,
+                113
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 22765,
+      "friends_count": 4144,
+      "listed_count": 307,
+      "created_at": "Wed Jun 23 19:36:42 +0000 2010",
+      "favourites_count": 7567,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 14755,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "111412",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1268543982805663747/sL6jR_2d_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268543982805663747/sL6jR_2d_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/158832205/1632741611",
+      "profile_link_color": "3E7751",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 14,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 7,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

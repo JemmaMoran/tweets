@@ -1,0 +1,296 @@
+{
+  "created_at": "Mon Aug 04 10:37:11 +0000 2014",
+  "id": 496243442859905024,
+  "id_str": "496243442859905024",
+  "text": "RT @rivercottage: Fancy a once-in-a-lifetime chance to learn with us? Enter our #RisingStar comp! 7 days left: http://t.co/caDYRMuNV4 http:\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "RisingStar",
+        "indices": [
+          80,
+          91
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "rivercottage",
+        "name": "River Cottage",
+        "id": 36018499,
+        "id_str": "36018499",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/caDYRMuNV4",
+        "expanded_url": "http://rivercottage.net/risingstar/what-is-rising-star/",
+        "display_url": "rivercottage.net/risingstar/wha\u2026",
+        "indices": [
+          111,
+          133
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Mon Aug 04 10:33:55 +0000 2014",
+    "id": 496242620260438016,
+    "id_str": "496242620260438016",
+    "text": "Fancy a once-in-a-lifetime chance to learn with us? Enter our #RisingStar comp! 7 days left: http://t.co/caDYRMuNV4 http://t.co/0gHPT4FBft",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "RisingStar",
+          "indices": [
+            62,
+            73
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "http://t.co/caDYRMuNV4",
+          "expanded_url": "http://rivercottage.net/risingstar/what-is-rising-star/",
+          "display_url": "rivercottage.net/risingstar/wha\u2026",
+          "indices": [
+            93,
+            115
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 496242617349177345,
+          "id_str": "496242617349177345",
+          "indices": [
+            116,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/BuMCCAGCAAEECcT.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/BuMCCAGCAAEECcT.jpg",
+          "url": "http://t.co/0gHPT4FBft",
+          "display_url": "pic.twitter.com/0gHPT4FBft",
+          "expanded_url": "https://twitter.com/rivercottage/status/496242620260438016/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 800,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 800,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 496242617349177345,
+          "id_str": "496242617349177345",
+          "indices": [
+            116,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/BuMCCAGCAAEECcT.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/BuMCCAGCAAEECcT.jpg",
+          "url": "http://t.co/0gHPT4FBft",
+          "display_url": "pic.twitter.com/0gHPT4FBft",
+          "expanded_url": "https://twitter.com/rivercottage/status/496242620260438016/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 800,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 800,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 36018499,
+      "id_str": "36018499",
+      "name": "River Cottage",
+      "screen_name": "rivercottage",
+      "location": "The Dorset/Devon border",
+      "description": "Foraging, fishing, farming and fumbling our way towards self sufficiency. Cookery school, campaigns, books, dining, weddings and events.",
+      "url": "https://t.co/QdyJgq4lyK",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/QdyJgq4lyK",
+              "expanded_url": "http://www.rivercottage.net",
+              "display_url": "rivercottage.net",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 162240,
+      "friends_count": 1007,
+      "listed_count": 1725,
+      "created_at": "Tue Apr 28 08:00:38 +0000 2009",
+      "favourites_count": 7378,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 15928,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "DCE0DD",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/699180774734618625/94X7oFvz_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/699180774734618625/94X7oFvz_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/36018499/1474299625",
+      "profile_link_color": "59340F",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "8DAB7F",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 11,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

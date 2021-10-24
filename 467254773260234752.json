@@ -1,0 +1,207 @@
+{
+  "created_at": "Fri May 16 10:46:33 +0000 2014",
+  "id": 467254773260234752,
+  "id_str": "467254773260234752",
+  "text": "RT @ErnestJournal: Ernest is now 90% funded on #Kickstarter Only \u00a3447 to go! Please RT, share, fly poster, tell people in the street... htt\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Kickstarter",
+        "indices": [
+          47,
+          59
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "ErnestJournal",
+        "name": "Ernest Journal",
+        "id": 1890044682,
+        "id_str": "1890044682",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu May 15 10:33:02 +0000 2014",
+    "id": 466888984032190464,
+    "id_str": "466888984032190464",
+    "text": "Ernest is now 90% funded on #Kickstarter Only \u00a3447 to go! Please RT, share, fly poster, tell people in the street... http://t.co/AKPZKQJI3D",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Kickstarter",
+          "indices": [
+            28,
+            40
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "http://t.co/AKPZKQJI3D",
+          "expanded_url": "http://bit.ly/ErnestKickstarter",
+          "display_url": "bit.ly/ErnestKickstar\u2026",
+          "indices": [
+            117,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1890044682,
+      "id_str": "1890044682",
+      "name": "Ernest Journal",
+      "screen_name": "ErnestJournal",
+      "location": "Bristol, England",
+      "description": "Ernest is a journal for enquiring minds. It's made for those who value wild ideas and meandering journeys, fuelled by curiosity and guided by chance encounters.",
+      "url": "https://t.co/zYo4VSNMZW",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/zYo4VSNMZW",
+              "expanded_url": "http://www.ernestjournal.co.uk/",
+              "display_url": "ernestjournal.co.uk",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 6048,
+      "friends_count": 4024,
+      "listed_count": 141,
+      "created_at": "Sat Sep 21 12:45:43 +0000 2013",
+      "favourites_count": 2402,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3630,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1039518849433919489/9wtJc28l_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039518849433919489/9wtJc28l_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1890044682/1546508934",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 15,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

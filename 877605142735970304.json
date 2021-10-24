@@ -1,0 +1,109 @@
+{
+  "created_at": "Wed Jun 21 19:12:25 +0000 2017",
+  "id": 877605142735970304,
+  "id_str": "877605142735970304",
+  "text": "@JoeWelstead @GreenCityCoop @boo_wholefoods @FlahavansUK Good question!",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "JoeWelstead",
+        "name": "Joey Welspooked \ud83d\ude36\u200d\ud83c\udf2b\ufe0f",
+        "id": 944364686,
+        "id_str": "944364686",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "screen_name": "GreenCityCoop",
+        "name": "Greencity Wholefoods",
+        "id": 407852474,
+        "id_str": "407852474",
+        "indices": [
+          13,
+          27
+        ]
+      },
+      {
+        "screen_name": "FlahavansUK",
+        "name": "Flahavan's UK",
+        "id": 602739617,
+        "id_str": "602739617",
+        "indices": [
+          44,
+          56
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": 877604370795376640,
+  "in_reply_to_status_id_str": "877604370795376640",
+  "in_reply_to_user_id": 944364686,
+  "in_reply_to_user_id_str": "944364686",
+  "in_reply_to_screen_name": "JoeWelstead",
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

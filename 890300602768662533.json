@@ -1,0 +1,392 @@
+{
+  "created_at": "Wed Jul 26 19:59:39 +0000 2017",
+  "id": 890300602768662533,
+  "id_str": "890300602768662533",
+  "text": "RT @AC0RNDAIRY: Happy faces &amp; coffee. Perfect combo @CrossLanesFarm organic cafe today #Teesdale #organichour https://t.co/clXjuRkz7D",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Teesdale",
+        "indices": [
+          91,
+          100
+        ]
+      },
+      {
+        "text": "organichour",
+        "indices": [
+          101,
+          113
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "AC0RNDAIRY",
+        "name": "Acorn Dairy",
+        "id": 469247359,
+        "id_str": "469247359",
+        "indices": [
+          3,
+          14
+        ]
+      },
+      {
+        "screen_name": "CrossLanesFarm",
+        "name": "Cross Lanes Organics",
+        "id": 382117030,
+        "id_str": "382117030",
+        "indices": [
+          56,
+          71
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/clXjuRkz7D",
+        "expanded_url": "https://twitter.com/crosslanesfarm/status/890243439975174144",
+        "display_url": "twitter.com/crosslanesfarm\u2026",
+        "indices": [
+          114,
+          137
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Jul 26 19:58:48 +0000 2017",
+    "id": 890300389991612418,
+    "id_str": "890300389991612418",
+    "text": "Happy faces &amp; coffee. Perfect combo @CrossLanesFarm organic cafe today #Teesdale #organichour https://t.co/clXjuRkz7D",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Teesdale",
+          "indices": [
+            75,
+            84
+          ]
+        },
+        {
+          "text": "organichour",
+          "indices": [
+            85,
+            97
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "CrossLanesFarm",
+          "name": "Cross Lanes Organics",
+          "id": 382117030,
+          "id_str": "382117030",
+          "indices": [
+            40,
+            55
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/clXjuRkz7D",
+          "expanded_url": "https://twitter.com/crosslanesfarm/status/890243439975174144",
+          "display_url": "twitter.com/crosslanesfarm\u2026",
+          "indices": [
+            98,
+            121
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 469247359,
+      "id_str": "469247359",
+      "name": "Acorn Dairy",
+      "screen_name": "AC0RNDAIRY",
+      "location": "Darlington",
+      "description": "England Food Awards-Best Dairy Supplier 2017\nOrganic dairy farm, delivering milk direct to your doorstep & cafe. Range now includes Organic Barista Milk.",
+      "url": "http://t.co/7gxqr9N6he",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/7gxqr9N6he",
+              "expanded_url": "http://www.acorndairy.co.uk",
+              "display_url": "acorndairy.co.uk",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2017,
+      "friends_count": 1816,
+      "listed_count": 47,
+      "created_at": "Fri Jan 20 11:45:10 +0000 2012",
+      "favourites_count": 3433,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3347,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1127935025209647104/nZIehYBx_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1127935025209647104/nZIehYBx_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/469247359/1514896099",
+      "profile_link_color": "3CB300",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 890243439975174144,
+    "quoted_status_id_str": "890243439975174144",
+    "quoted_status": {
+      "created_at": "Wed Jul 26 16:12:30 +0000 2017",
+      "id": 890243439975174144,
+      "id_str": "890243439975174144",
+      "text": "Anna just checking our #organiccoffee delivery from @railtowncoffee #freshlyroasted busy #summerholidays thanks Hen\u2026 https://t.co/ZHAK4Ndtln",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "organiccoffee",
+            "indices": [
+              23,
+              37
+            ]
+          },
+          {
+            "text": "freshlyroasted",
+            "indices": [
+              68,
+              83
+            ]
+          },
+          {
+            "text": "summerholidays",
+            "indices": [
+              89,
+              104
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "railtowncoffee",
+            "name": "Railtown Coffee",
+            "id": 249349908,
+            "id_str": "249349908",
+            "indices": [
+              52,
+              67
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ZHAK4Ndtln",
+            "expanded_url": "https://twitter.com/i/web/status/890243439975174144",
+            "display_url": "twitter.com/i/web/status/8\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 382117030,
+        "id_str": "382117030",
+        "name": "Cross Lanes Organics",
+        "screen_name": "CrossLanesFarm",
+        "location": "Barnard Castle DL12 9SL",
+        "description": "Our organic kitchen serves speciality dishes using fresh, local & seasonal ingredients. Our farm shop with deli & butchers supports local producers.",
+        "url": "http://t.co/7fe5o2lxUL",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/7fe5o2lxUL",
+                "expanded_url": "http://www.crosslanesorganics.co.uk",
+                "display_url": "crosslanesorganics.co.uk",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1823,
+        "friends_count": 1042,
+        "listed_count": 46,
+        "created_at": "Thu Sep 29 14:27:03 +0000 2011",
+        "favourites_count": 1177,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2990,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1201934645702594561/MKd87XpO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201934645702594561/MKd87XpO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/382117030/1500448938",
+        "profile_link_color": "853785",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "693269",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 4,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 890243439975174144,
+  "quoted_status_id_str": "890243439975174144",
+  "retweet_count": 4,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

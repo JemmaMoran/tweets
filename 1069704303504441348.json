@@ -1,0 +1,212 @@
+{
+  "created_at": "Mon Dec 03 21:25:54 +0000 2018",
+  "id": 1069704303504441348,
+  "id_str": "1069704303504441348",
+  "text": "RT @Independent: The reason why avocados are being banned from trendy cafes https://t.co/McfvyDNjPx",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Independent",
+        "name": "The Independent",
+        "id": 16973333,
+        "id_str": "16973333",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/McfvyDNjPx",
+        "expanded_url": "https://www.independent.co.uk/life-style/food-and-drink/avocados-banned-environment-damage-sustainable-cafe-food-cooking-a8663526.html?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1543771529",
+        "display_url": "independent.co.uk/life-style/foo\u2026",
+        "indices": [
+          76,
+          99
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Dec 02 22:13:41 +0000 2018",
+    "id": 1069353938120556544,
+    "id_str": "1069353938120556544",
+    "text": "The reason why avocados are being banned from trendy cafes https://t.co/McfvyDNjPx",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/McfvyDNjPx",
+          "expanded_url": "https://www.independent.co.uk/life-style/food-and-drink/avocados-banned-environment-damage-sustainable-cafe-food-cooking-a8663526.html?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1543771529",
+          "display_url": "independent.co.uk/life-style/foo\u2026",
+          "indices": [
+            59,
+            82
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 16973333,
+      "id_str": "16973333",
+      "name": "The Independent",
+      "screen_name": "Independent",
+      "location": "London, England",
+      "description": "News, comment and features from The Independent. Try an ad-free experience with access to premium articles with our app: https://t.co/3cP3AmmEDy",
+      "url": "https://t.co/gZeS7qlNx6",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/gZeS7qlNx6",
+              "expanded_url": "http://independent.co.uk",
+              "display_url": "independent.co.uk",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/3cP3AmmEDy",
+              "expanded_url": "http://independent.onelink.me/wgiA/cfc",
+              "display_url": "independent.onelink.me/wgiA/cfc",
+              "indices": [
+                121,
+                144
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 3617815,
+      "friends_count": 474,
+      "listed_count": 25649,
+      "created_at": "Sun Oct 26 00:00:29 +0000 2008",
+      "favourites_count": 54,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 1181245,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "EBEBEB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1410564543361716226/gfgxZ-kN_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410564543361716226/gfgxZ-kN_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16973333/1610959834",
+      "profile_link_color": "FC051A",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 17,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 17,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

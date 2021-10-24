@@ -1,0 +1,249 @@
+{
+  "created_at": "Wed Mar 22 20:14:17 +0000 2017",
+  "id": 844643413731495937,
+  "id_str": "844643413731495937",
+  "text": "RT @PebbleMagazine: @organicukfood And here's one of our #organic restaurant reviews https://t.co/kk6KNhhzE6",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "organic",
+        "indices": [
+          57,
+          65
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "PebbleMagazine",
+        "name": "pebble magazine",
+        "id": 741634147849011200,
+        "id_str": "741634147849011200",
+        "indices": [
+          3,
+          18
+        ]
+      },
+      {
+        "screen_name": "organicukfood",
+        "name": "organicukfood",
+        "id": 940128036409688064,
+        "id_str": "940128036409688064",
+        "indices": [
+          20,
+          34
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/kk6KNhhzE6",
+        "expanded_url": "http://pebblemag.com/magazine/eating-drinking/farmstand-london",
+        "display_url": "pebblemag.com/magazine/eatin\u2026",
+        "indices": [
+          85,
+          108
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Mar 22 20:09:56 +0000 2017",
+    "id": 844642318783254528,
+    "id_str": "844642318783254528",
+    "text": "@organicukfood And here's one of our #organic restaurant reviews https://t.co/kk6KNhhzE6",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "organic",
+          "indices": [
+            37,
+            45
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "organicukfood",
+          "name": "organicukfood",
+          "id": 940128036409688064,
+          "id_str": "940128036409688064",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/kk6KNhhzE6",
+          "expanded_url": "http://pebblemag.com/magazine/eating-drinking/farmstand-london",
+          "display_url": "pebblemag.com/magazine/eatin\u2026",
+          "indices": [
+            65,
+            88
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 844641892721721344,
+    "in_reply_to_status_id_str": "844641892721721344",
+    "in_reply_to_user_id": 111040216,
+    "in_reply_to_user_id_str": "111040216",
+    "in_reply_to_screen_name": "organicUK",
+    "user": {
+      "id": 741634147849011200,
+      "id_str": "741634147849011200",
+      "name": "pebble magazine",
+      "screen_name": "PebbleMagazine",
+      "location": "London, England",
+      "description": "Sustainable lifestyle magazine, events + community. Sign up to our weekly email of positive news. Join our new #everydayactivism community - https://t.co/nunMbUWe7w",
+      "url": "https://t.co/jisBBQ83X9",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/jisBBQ83X9",
+              "expanded_url": "https://bit.ly/2wdQiUV",
+              "display_url": "bit.ly/2wdQiUV",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/nunMbUWe7w",
+              "expanded_url": "http://pebble.mn.co",
+              "display_url": "pebble.mn.co",
+              "indices": [
+                141,
+                164
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 13785,
+      "friends_count": 6557,
+      "listed_count": 283,
+      "created_at": "Sat Jun 11 14:12:14 +0000 2016",
+      "favourites_count": 18120,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 22696,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/875274042957344769/Y63Ivhnn_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/875274042957344769/Y63Ivhnn_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/741634147849011200/1617873570",
+      "profile_link_color": "7FDBB6",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

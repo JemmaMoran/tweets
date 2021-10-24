@@ -1,0 +1,280 @@
+{
+  "created_at": "Sat Feb 13 14:20:35 +0000 2016",
+  "id": 698512095629987840,
+  "id_str": "698512095629987840",
+  "text": "RT @SaqqaraIT: How many Windows shortcuts do you know? Learn our top 8 + look like a computer whizz! https://t.co/jsU3ttAxvK https://t.co/v\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "SaqqaraIT",
+        "name": "Saqqara IT Support",
+        "id": 456090995,
+        "id_str": "456090995",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/jsU3ttAxvK",
+        "expanded_url": "http://www.saqqara.co.uk/8-windows-shortcuts-that-will-make-you-look-like-a-computer-whizz/",
+        "display_url": "saqqara.co.uk/8-windows-shor\u2026",
+        "indices": [
+          101,
+          124
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Feb 13 14:19:45 +0000 2016",
+    "id": 698511884488728577,
+    "id_str": "698511884488728577",
+    "text": "How many Windows shortcuts do you know? Learn our top 8 + look like a computer whizz! https://t.co/jsU3ttAxvK https://t.co/vaHmymRiy9",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/jsU3ttAxvK",
+          "expanded_url": "http://www.saqqara.co.uk/8-windows-shortcuts-that-will-make-you-look-like-a-computer-whizz/",
+          "display_url": "saqqara.co.uk/8-windows-shor\u2026",
+          "indices": [
+            86,
+            109
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 698511884169953280,
+          "id_str": "698511884169953280",
+          "indices": [
+            110,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/media/CbGc25dWwAAPU8T.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CbGc25dWwAAPU8T.jpg",
+          "url": "https://t.co/vaHmymRiy9",
+          "display_url": "pic.twitter.com/vaHmymRiy9",
+          "expanded_url": "https://twitter.com/SaqqaraIT/status/698511884488728577/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 698511884169953280,
+          "id_str": "698511884169953280",
+          "indices": [
+            110,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/media/CbGc25dWwAAPU8T.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CbGc25dWwAAPU8T.jpg",
+          "url": "https://t.co/vaHmymRiy9",
+          "display_url": "pic.twitter.com/vaHmymRiy9",
+          "expanded_url": "https://twitter.com/SaqqaraIT/status/698511884488728577/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 456090995,
+      "id_str": "456090995",
+      "name": "Saqqara IT Support",
+      "screen_name": "SaqqaraIT",
+      "location": "HantsDorsetDevonSurreyWilts",
+      "description": "Pro-active Managed IT support. Remote and on-site. Supporting your business with strong IT infrastructure and a dedicated team.",
+      "url": "https://t.co/hcYQlZz8oc",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/hcYQlZz8oc",
+              "expanded_url": "http://www.saqqarait.com",
+              "display_url": "saqqarait.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 359,
+      "friends_count": 802,
+      "listed_count": 19,
+      "created_at": "Thu Jan 05 21:27:01 +0000 2012",
+      "favourites_count": 809,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 830,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "2F353B",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000226930684/94a071a5e967870b0e6126da2359866d_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000226930684/94a071a5e967870b0e6126da2359866d_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/456090995/1457264801",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 2,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

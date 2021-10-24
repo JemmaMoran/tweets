@@ -1,0 +1,395 @@
+{
+  "created_at": "Fri Oct 10 22:11:04 +0000 2014",
+  "id": 520698053511348225,
+  "id_str": "520698053511348225",
+  "text": "RT @LHortonUEA: Love this infographic from #UEA  students' #gowiththeflow campaign http://t.co/R9eZY2fExx http://t.co/fXQ8MqyLUB",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UEA",
+        "indices": [
+          43,
+          47
+        ]
+      },
+      {
+        "text": "gowiththeflow",
+        "indices": [
+          59,
+          73
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "LHortonUEA",
+        "name": "Lisa Horton",
+        "id": 888373045,
+        "id_str": "888373045",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/R9eZY2fExx",
+        "expanded_url": "http://tinyurl.com/kjqb3hq",
+        "display_url": "tinyurl.com/kjqb3hq",
+        "indices": [
+          83,
+          105
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 520185530474983428,
+        "id_str": "520185530474983428",
+        "indices": [
+          106,
+          128
+        ],
+        "media_url": "http://pbs.twimg.com/media/BzgR--FCcAQj_gk.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/BzgR--FCcAQj_gk.jpg",
+        "url": "http://t.co/fXQ8MqyLUB",
+        "display_url": "pic.twitter.com/fXQ8MqyLUB",
+        "expanded_url": "https://twitter.com/LHortonUEA/status/520185532434092032/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 720,
+            "h": 548,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 720,
+            "h": 548,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 518,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 520185532434092032,
+        "source_status_id_str": "520185532434092032",
+        "source_user_id": 888373045,
+        "source_user_id_str": "888373045"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 520185530474983428,
+        "id_str": "520185530474983428",
+        "indices": [
+          106,
+          128
+        ],
+        "media_url": "http://pbs.twimg.com/media/BzgR--FCcAQj_gk.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/BzgR--FCcAQj_gk.jpg",
+        "url": "http://t.co/fXQ8MqyLUB",
+        "display_url": "pic.twitter.com/fXQ8MqyLUB",
+        "expanded_url": "https://twitter.com/LHortonUEA/status/520185532434092032/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 720,
+            "h": 548,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 720,
+            "h": 548,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 518,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 520185532434092032,
+        "source_status_id_str": "520185532434092032",
+        "source_user_id": 888373045,
+        "source_user_id_str": "888373045"
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Oct 09 12:14:30 +0000 2014",
+    "id": 520185532434092032,
+    "id_str": "520185532434092032",
+    "text": "Love this infographic from #UEA  students' #gowiththeflow campaign http://t.co/R9eZY2fExx http://t.co/fXQ8MqyLUB",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "UEA",
+          "indices": [
+            27,
+            31
+          ]
+        },
+        {
+          "text": "gowiththeflow",
+          "indices": [
+            43,
+            57
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "http://t.co/R9eZY2fExx",
+          "expanded_url": "http://tinyurl.com/kjqb3hq",
+          "display_url": "tinyurl.com/kjqb3hq",
+          "indices": [
+            67,
+            89
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 520185530474983428,
+          "id_str": "520185530474983428",
+          "indices": [
+            90,
+            112
+          ],
+          "media_url": "http://pbs.twimg.com/media/BzgR--FCcAQj_gk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/BzgR--FCcAQj_gk.jpg",
+          "url": "http://t.co/fXQ8MqyLUB",
+          "display_url": "pic.twitter.com/fXQ8MqyLUB",
+          "expanded_url": "https://twitter.com/LHortonUEA/status/520185532434092032/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 720,
+              "h": 548,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 720,
+              "h": 548,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 518,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 520185530474983428,
+          "id_str": "520185530474983428",
+          "indices": [
+            90,
+            112
+          ],
+          "media_url": "http://pbs.twimg.com/media/BzgR--FCcAQj_gk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/BzgR--FCcAQj_gk.jpg",
+          "url": "http://t.co/fXQ8MqyLUB",
+          "display_url": "pic.twitter.com/fXQ8MqyLUB",
+          "expanded_url": "https://twitter.com/LHortonUEA/status/520185532434092032/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 720,
+              "h": 548,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 720,
+              "h": 548,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 518,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 888373045,
+      "id_str": "888373045",
+      "name": "Lisa Horton",
+      "screen_name": "LHortonUEA",
+      "location": "Norwich",
+      "description": "Media relations manager. Tweeting about environmental, science, and health research @uniofeastanglia. Views are my own etc. Contact l.horton@uea.ac.uk",
+      "url": "http://t.co/8H2JDxIsXA",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/8H2JDxIsXA",
+              "expanded_url": "http://www.uea.ac.uk",
+              "display_url": "uea.ac.uk",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1386,
+      "friends_count": 1076,
+      "listed_count": 32,
+      "created_at": "Thu Oct 18 08:24:17 +0000 2012",
+      "favourites_count": 4115,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3595,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2732394819/a8ab33292b9ebf96cb3ec7d491fcb00e_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2732394819/a8ab33292b9ebf96cb3ec7d491fcb00e_normal.jpeg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 17,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 17,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

@@ -1,0 +1,323 @@
+{
+  "created_at": "Thu Sep 14 16:16:34 +0000 2017",
+  "id": 908363855201533957,
+  "id_str": "908363855201533957",
+  "text": "RT @organicukfood: Suffolk based? Help rescue these apples from being wasted! \ud83c\udf4f https://t.co/X3TU50c8pW",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "organicukfood",
+        "name": "organicukfood",
+        "id": 940128036409688064,
+        "id_str": "940128036409688064",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/X3TU50c8pW",
+        "expanded_url": "https://twitter.com/gleaningcambs/status/908289775228026880",
+        "display_url": "twitter.com/gleaningcambs/\u2026",
+        "indices": [
+          80,
+          103
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Sep 14 14:48:48 +0000 2017",
+    "id": 908341768248283136,
+    "id_str": "908341768248283136",
+    "text": "Suffolk based? Help rescue these apples from being wasted! \ud83c\udf4f https://t.co/X3TU50c8pW",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/X3TU50c8pW",
+          "expanded_url": "https://twitter.com/gleaningcambs/status/908289775228026880",
+          "display_url": "twitter.com/gleaningcambs/\u2026",
+          "indices": [
+            61,
+            84
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 111040216,
+      "id_str": "111040216",
+      "name": "Organic UK",
+      "screen_name": "organicUK",
+      "location": "United Kingdom",
+      "description": "Our mission is to grow the market for organic in the UK. We\u2019re an independent non-profit organisation. Join us #GoOrganic \ud83d\udc1d",
+      "url": "https://t.co/pFCmaeBdba",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/pFCmaeBdba",
+              "expanded_url": "https://goorganicuk.com/",
+              "display_url": "goorganicuk.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 17084,
+      "friends_count": 3965,
+      "listed_count": 254,
+      "created_at": "Wed Feb 03 16:18:48 +0000 2010",
+      "favourites_count": 28026,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 14532,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1376201793428975619/Yk3GVrdo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1376201793428975619/Yk3GVrdo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/111040216/1629286498",
+      "profile_link_color": "7BB03E",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 908289775228026880,
+    "quoted_status_id_str": "908289775228026880",
+    "quoted_status": {
+      "created_at": "Thu Sep 14 11:22:12 +0000 2017",
+      "id": 908289775228026880,
+      "id_str": "908289775228026880",
+      "text": "Come #gleaning! Save 1000s apples from #foodwaste on farm for charity! Idyllic day out Weds 20th Sept. Sign up here\u2026 https://t.co/PxePY8HgSP",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "gleaning",
+            "indices": [
+              5,
+              14
+            ]
+          },
+          {
+            "text": "foodwaste",
+            "indices": [
+              39,
+              49
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/PxePY8HgSP",
+            "expanded_url": "https://twitter.com/i/web/status/908289775228026880",
+            "display_url": "twitter.com/i/web/status/9\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2714291352,
+        "id_str": "2714291352",
+        "name": "Gleaning EastEngland",
+        "screen_name": "gleaningcambs",
+        "location": "Cambridge, Sth Lincs, Norfolk",
+        "description": "Saving surplus fruit & veg from farms for food redistribution charities. East England Hub-Gleaning Network UK-part of @Feedbackorg. Join the glean revolution!",
+        "url": "http://t.co/YfeICfSUrl",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/YfeICfSUrl",
+                "expanded_url": "http://feedbackglobal.org/campaigns/gleaning-network/",
+                "display_url": "feedbackglobal.org/campaigns/glea\u2026",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 482,
+        "friends_count": 410,
+        "listed_count": 9,
+        "created_at": "Thu Aug 07 11:10:51 +0000 2014",
+        "favourites_count": 139,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 200,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/497359749575229442/4uxq8nyC_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/497359749575229442/4uxq8nyC_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2714291352/1407417317",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 7,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 908289775228026880,
+  "quoted_status_id_str": "908289775228026880",
+  "retweet_count": 7,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

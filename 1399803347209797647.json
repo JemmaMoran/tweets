@@ -1,0 +1,109 @@
+{
+  "created_at": "Tue Jun 01 19:01:39 +0000 2021",
+  "id": 1399803347209797647,
+  "id_str": "1399803347209797647",
+  "text": "@UKurbanite @bobscartoons @GarySidley Exactly right!",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "UKurbanite",
+        "name": "UK Urbanite",
+        "id": 913390712028368896,
+        "id_str": "913390712028368896",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "screen_name": "bobscartoons",
+        "name": "Bob Moran",
+        "id": 118044673,
+        "id_str": "118044673",
+        "indices": [
+          12,
+          25
+        ]
+      },
+      {
+        "screen_name": "GarySidley",
+        "name": "Gary Sidley",
+        "id": 1961239508,
+        "id_str": "1961239508",
+        "indices": [
+          26,
+          37
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": 1399802739291471873,
+  "in_reply_to_status_id_str": "1399802739291471873",
+  "in_reply_to_user_id": 913390712028368896,
+  "in_reply_to_user_id_str": "913390712028368896",
+  "in_reply_to_screen_name": "UKurbanite",
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

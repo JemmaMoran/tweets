@@ -1,0 +1,193 @@
+{
+  "created_at": "Sun Jul 04 09:39:49 +0000 2021",
+  "id": 1411620756253970432,
+  "id_str": "1411620756253970432",
+  "text": "\"Disaster planners are very clear we should put children first in these situations. We haven\u2019t.\" https://t.co/CfezhazX1Q",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/CfezhazX1Q",
+        "expanded_url": "https://twitter.com/SelfHarmRes/status/1411587733517185026",
+        "display_url": "twitter.com/SelfHarmRes/st\u2026",
+        "indices": [
+          97,
+          120
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1411587733517185026,
+  "quoted_status_id_str": "1411587733517185026",
+  "quoted_status": {
+    "created_at": "Sun Jul 04 07:28:36 +0000 2021",
+    "id": 1411587733517185026,
+    "id_str": "1411587733517185026",
+    "text": "https://t.co/qnQkhn3svV",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/qnQkhn3svV",
+          "expanded_url": "https://www.express.co.uk/comment/expresscomment/1458070/coronavirus-news-children-mental-health-school-closures",
+          "display_url": "express.co.uk/comment/expres\u2026",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1852063386,
+      "id_str": "1852063386",
+      "name": "Professor Ellen Townsend",
+      "screen_name": "SelfHarmRes",
+      "location": "Nottingham, England",
+      "description": "PI, Self-Harm Research Group at University of Nottingham.\nViews all own.\nWorking to increase knowledge & understanding of self-harm.",
+      "url": "https://t.co/mNUWJvVdL5",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/mNUWJvVdL5",
+              "expanded_url": "https://sites.google.com/view/self-harm-research-group/home",
+              "display_url": "sites.google.com/view/self-harm\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 18373,
+      "friends_count": 925,
+      "listed_count": 157,
+      "created_at": "Tue Sep 10 17:46:09 +0000 2013",
+      "favourites_count": 24732,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 13746,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1404160953743204352/nSupVaii_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404160953743204352/nSupVaii_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852063386/1623613035",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 128,
+    "favorite_count": 508,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  "retweet_count": 9,
+  "favorite_count": 32,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

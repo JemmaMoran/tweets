@@ -1,0 +1,371 @@
+{
+  "created_at": "Wed Nov 11 09:56:31 +0000 2015",
+  "id": 664381178330357760,
+  "id_str": "664381178330357760",
+  "text": "RT @crowdfunderuk: Today @_Jessification_ talks #crowdfunding at #TEDxBristol https://t.co/3fX5rPCJDf @TEDxBristol @crowdfunderuk https://t\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "crowdfunding",
+        "indices": [
+          48,
+          61
+        ]
+      },
+      {
+        "text": "TEDxBristol",
+        "indices": [
+          65,
+          77
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "crowdfunderuk",
+        "name": "Crowdfunder",
+        "id": 206133157,
+        "id_str": "206133157",
+        "indices": [
+          3,
+          17
+        ]
+      },
+      {
+        "screen_name": "_Jessification_",
+        "name": "Jessica Ratty",
+        "id": 191378901,
+        "id_str": "191378901",
+        "indices": [
+          25,
+          41
+        ]
+      },
+      {
+        "screen_name": "TEDxBristol",
+        "name": "TEDxBristol",
+        "id": 237634684,
+        "id_str": "237634684",
+        "indices": [
+          102,
+          114
+        ]
+      },
+      {
+        "screen_name": "crowdfunderuk",
+        "name": "Crowdfunder",
+        "id": 206133157,
+        "id_str": "206133157",
+        "indices": [
+          115,
+          129
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/3fX5rPCJDf",
+        "expanded_url": "http://buff.ly/1HHb8ph",
+        "display_url": "buff.ly/1HHb8ph",
+        "indices": [
+          78,
+          101
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393578787,
+    "id_str": "393578787",
+    "name": "Jemma Moran",
+    "screen_name": "JemmaMoran",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1667,
+    "friends_count": 997,
+    "listed_count": 15,
+    "created_at": "Tue Oct 18 19:07:41 +0000 2011",
+    "favourites_count": 5420,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3347,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/657536813498769408/u7qpZby2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/393578787/1362938063",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Nov 11 08:42:06 +0000 2015",
+    "id": 664362450897215488,
+    "id_str": "664362450897215488",
+    "text": "Today @_Jessification_ talks #crowdfunding at #TEDxBristol https://t.co/3fX5rPCJDf @TEDxBristol @crowdfunderuk https://t.co/aCUCMJhciC",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "crowdfunding",
+          "indices": [
+            29,
+            42
+          ]
+        },
+        {
+          "text": "TEDxBristol",
+          "indices": [
+            46,
+            58
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "_Jessification_",
+          "name": "Jessica Ratty",
+          "id": 191378901,
+          "id_str": "191378901",
+          "indices": [
+            6,
+            22
+          ]
+        },
+        {
+          "screen_name": "TEDxBristol",
+          "name": "TEDxBristol",
+          "id": 237634684,
+          "id_str": "237634684",
+          "indices": [
+            83,
+            95
+          ]
+        },
+        {
+          "screen_name": "crowdfunderuk",
+          "name": "Crowdfunder",
+          "id": 206133157,
+          "id_str": "206133157",
+          "indices": [
+            96,
+            110
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3fX5rPCJDf",
+          "expanded_url": "http://buff.ly/1HHb8ph",
+          "display_url": "buff.ly/1HHb8ph",
+          "indices": [
+            59,
+            82
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 664362450440077312,
+          "id_str": "664362450440077312",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/CThKIPSWwAAwu8F.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CThKIPSWwAAwu8F.jpg",
+          "url": "https://t.co/aCUCMJhciC",
+          "display_url": "pic.twitter.com/aCUCMJhciC",
+          "expanded_url": "https://twitter.com/crowdfunderuk/status/664362450897215488/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 512,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 512,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 664362450440077312,
+          "id_str": "664362450440077312",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/CThKIPSWwAAwu8F.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CThKIPSWwAAwu8F.jpg",
+          "url": "https://t.co/aCUCMJhciC",
+          "display_url": "pic.twitter.com/aCUCMJhciC",
+          "expanded_url": "https://twitter.com/crowdfunderuk/status/664362450897215488/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 512,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 512,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 206133157,
+      "id_str": "206133157",
+      "name": "Crowdfunder",
+      "screen_name": "crowdfunderuk",
+      "location": "Cornwall",
+      "description": "We are the #1 crowdfunding platform in the UK, having raised \u00a3200m. Connecting projects that matter with people who care.",
+      "url": "https://t.co/Qh0ygPpBX6",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Qh0ygPpBX6",
+              "expanded_url": "http://www.crowdfunder.co.uk",
+              "display_url": "crowdfunder.co.uk",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 59613,
+      "friends_count": 2916,
+      "listed_count": 998,
+      "created_at": "Fri Oct 22 10:29:19 +0000 2010",
+      "favourites_count": 11928,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 34917,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/926126839420145664/C2KQalaM_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/926126839420145664/C2KQalaM_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/206133157/1623660231",
+      "profile_link_color": "1AA7DB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 12,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}
